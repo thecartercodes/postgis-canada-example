@@ -12,5 +12,5 @@ The bootstrapping can take around ~5 minutes or so because the geometry parsing 
 
 # Requirements
 
-# For Ubuntu
+## For Ubuntu
 `apt-get install postgresql postgis`

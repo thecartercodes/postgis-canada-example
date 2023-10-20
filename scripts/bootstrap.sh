@@ -17,5 +17,5 @@ rm -f $cd_filename
 
 export PGPASSWORD=tm41m
 
-shp2pgsql -D -I -s 26918 lcd_000b21a_e.shp statcan.census_divisions \
+shp2pgsql -D -I -s 26918 tmp/lcd_000b21a_e.shp statcan.census_divisions \
   | psql dbname=tm41m user=tm41m host=localhost port=1255

@@ -1,0 +1,21 @@
+version: '3.7'
+services:
+  postgres:
+    environment:
+      POSTGRES_USER: tm41m
+      POSTGRES_PASSWORD: tm41m
+      POSTGRES_DB: tm41m
+    image: postgis/postgis:12-3.4
+    restart: always
+    ports:
+      - "1255:5432"
+  dbt:
+    image: ghcr.io/dbt-labs/dbt-postgres:1.5.2
+    volumes:
+      - ./healthcare_metrics/:/usr/app
+      - ./healthcare_metrics/profiles.yml:/root/.dbt/profiles.yml
+    command: run
+    links:
+      - postgres
+    depends_on:
+      - postgres

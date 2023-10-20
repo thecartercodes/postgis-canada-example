@@ -1,0 +1,8 @@
+venv/
+.env.local
+.env.dev
+logs/
+*.gitkeep
+*.user.yml
+tmp/
+tmp_*

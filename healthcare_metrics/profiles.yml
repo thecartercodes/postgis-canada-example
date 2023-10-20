@@ -1,0 +1,13 @@
+healthcare_metrics:
+  outputs:
+    dev:
+      type: postgres
+      threads: 1
+      host: postgres
+      port: 5432
+      user: tm41m
+      pass: tm41m
+      dbname: tm41m
+      schema: wolfram
+
+  target: dev

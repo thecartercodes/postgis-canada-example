@@ -1,5 +1,7 @@
 BEGIN;
 
+CREATE EXTENSION postgis;
+
 CREATE SCHEMA IF NOT EXISTS statcan;
 
 CREATE TABLE IF NOT EXISTS statcan.healthcare_facilities (

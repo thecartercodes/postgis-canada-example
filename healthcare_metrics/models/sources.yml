@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: statcan
+    schema: statcan
+    tables:
+      - name: healthcare_facilities
+      - name: census_divisions

@@ -1,0 +1,2988 @@
+province,census_division_name,city,odhf_facility_type,facilities
+nb,,,Hospitals,27
+nt,,,Ambulatory health care services,1
+nl,,,Nursing and residential care facilities,22
+sk,,,Nursing and residential care facilities,124
+on,,,Ambulatory health care services,1001
+ab,,,Ambulatory health care services,43
+nb,,,Ambulatory health care services,13
+bc,,,Ambulatory health care services,227
+bc,,,Hospitals,102
+yt,,,Ambulatory health care services,24
+qc,,,Nursing and residential care facilities,603
+mb,,,Nursing and residential care facilities,41
+sk,,,Hospitals,96
+mb,,,Ambulatory health care services,29
+pe,,,Nursing and residential care facilities,56
+ab,,,Hospitals,141
+nl,,,Hospitals,32
+ns,,,Nursing and residential care facilities,129
+nb,,,Nursing and residential care facilities,130
+yt,,,Nursing and residential care facilities,4
+ns,,,Hospitals,44
+pe,,,Ambulatory health care services,30
+nt,,,Hospitals,5
+pe,,,Hospitals,9
+ns,,,Ambulatory health care services,5
+bc,,,Nursing and residential care facilities,987
+qc,,,Hospitals,349
+yt,,,nursing and residential care facilities,2
+mb,,,Hospitals,90
+nl,,,Ambulatory health care services,27
+on,,,Hospitals,239
+on,,,Nursing and residential care facilities,1455
+sk,,,Ambulatory health care services,173
+yt,,,Hospitals,3
+ab,,,Nursing and residential care facilities,113
+nu,,,Hospitals,3
+qc,,,Ambulatory health care services,654
+,Division No.  5,,Ambulatory health care services,6
+,Division No.  9,,Nursing and residential care facilities,8
+,Montmagny,,Hospitals,3
+,Bulkley-Nechako,,Nursing and residential care facilities,6
+,Lac-Saint-Jean-Est,,Ambulatory health care services,7
+,Kamouraska,,Ambulatory health care services,3
+,Grey,,Hospitals,5
+,Les Sources,,Ambulatory health care services,2
+,Roussillon,,Ambulatory health care services,6
+,Les Appalaches,,Hospitals,1
+,Longueuil,,Ambulatory health care services,18
+,Muskoka,,Nursing and residential care facilities,12
+,Skeena-Queen Charlotte,,Ambulatory health care services,1
+,Parry Sound,,Ambulatory health care services,10
+,Les Moulins,,Hospitals,2
+,Algoma,,Ambulatory health care services,25
+,Cowichan Valley,,Ambulatory health care services,3
+,Qikiqtaaluk,,Hospitals,1
+,Lunenburg,,Nursing and residential care facilities,8
+,Alberni-Clayoquot,,Hospitals,2
+,Kitikmeot,,Hospitals,1
+,Strathcona,,Hospitals,1
+,Durham,,Hospitals,8
+,Brant,,Ambulatory health care services,14
+,La Rivière-du-Nord,,Hospitals,2
+,Le Haut-Saint-François,,Ambulatory health care services,7
+,Gatineau,,Nursing and residential care facilities,14
+,Sunbury,,Nursing and residential care facilities,1
+,La Haute-Gaspésie,,Ambulatory health care services,5
+,Manitoulin,,Ambulatory health care services,9
+,Vaudreuil-Soulanges,,Hospitals,1
+,Division No.  2,,Hospitals,15
+,Coaticook,,Ambulatory health care services,2
+,La Matapédia,,Ambulatory health care services,4
+,La Côte-de-Gaspé,,Ambulatory health care services,4
+,Le Haut-Richelieu,,Ambulatory health care services,9
+,Memphrémagog,,Nursing and residential care facilities,1
+,Northumberland,,Hospitals,3
+,Sept-Rivières--Caniapiscau,,Ambulatory health care services,7
+,Yukon,,Ambulatory health care services,20
+,Antigonish,,Nursing and residential care facilities,3
+,Victoria,,Hospitals,5
+,Peace River,,Hospitals,3
+,Carleton,,Hospitals,1
+,Perth,,Nursing and residential care facilities,15
+,Manicouagan,,Hospitals,3
+,Lambton,,Hospitals,2
+,La Haute-Gaspésie,,Hospitals,1
+,Kenora,,Nursing and residential care facilities,7
+,Division No.  6,,Ambulatory health care services,47
+,Antoine-Labelle,,Nursing and residential care facilities,4
+,Grey,,Ambulatory health care services,14
+,Kenora,,Ambulatory health care services,29
+,Division No. 13,,Ambulatory health care services,8
+,Wellington,,Hospitals,5
+,Oxford,,Ambulatory health care services,8
+,Hamilton,,Nursing and residential care facilities,60
+,York,,Hospitals,7
+,Argenteuil,,Ambulatory health care services,2
+,Huron,,Hospitals,6
+,Arthabaska,,Hospitals,1
+,Manitoulin,,Nursing and residential care facilities,3
+,York,,Ambulatory health care services,30
+,Madawaska,,Nursing and residential care facilities,3
+,Rouyn-Noranda,,Ambulatory health care services,8
+,Comox Valley,,Ambulatory health care services,2
+,Fraser-Fort George,,Ambulatory health care services,5
+,Richmond,,Hospitals,1
+,Rouyn-Noranda,,Nursing and residential care facilities,3
+,Matawinie,,Hospitals,1
+,Rainy River,,Ambulatory health care services,5
+,Joliette,,Hospitals,2
+,Peel,,Nursing and residential care facilities,64
+,Wellington,,Ambulatory health care services,17
+,La Vallée-de-l'Or,,Ambulatory health care services,3
+,Montréal,,Hospitals,91
+,Okanagan-Similkameen,,Hospitals,3
+,Les Etchemins,,Hospitals,1
+,Cumberland,,Nursing and residential care facilities,9
+,Thompson-Nicola,,Ambulatory health care services,3
+,Antoine-Labelle,,Hospitals,3
+,Capital,,Nursing and residential care facilities,110
+,Unknown,,Hospitals,93
+,Region 5,,Hospitals,2
+,Cape Breton,,Nursing and residential care facilities,17
+,Rivière-du-Loup,,Hospitals,2
+,Division No.  7,,Ambulatory health care services,9
+,La Côte-de-Beaupré,,Hospitals,1
+,Simcoe,,Hospitals,6
+,Algoma,,Hospitals,8
+,Halifax,,Nursing and residential care facilities,26
+,Mirabel,,Ambulatory health care services,2
+,Le Haut-Saint-Laurent,,Hospitals,1
+,La Rivière-du-Nord,,Ambulatory health care services,9
+,Les Moulins,,Ambulatory health care services,9
+,Region 6,,Hospitals,1
+,Yarmouth,,Hospitals,1
+,Division No.  5,,Nursing and residential care facilities,8
+,Le Rocher-Percé,,Ambulatory health care services,5
+,Hamilton,,Ambulatory health care services,41
+,Gatineau,,Ambulatory health care services,12
+,Greater Vancouver,,Nursing and residential care facilities,403
+,Division No. 17,,Ambulatory health care services,8
+,"Stormont, Dundas and Glengarry",,Nursing and residential care facilities,25
+,Brome-Missisquoi,,Ambulatory health care services,10
+,Greater Vancouver,,Ambulatory health care services,121
+,Bécancour,,Nursing and residential care facilities,3
+,Division No. 12,,Hospitals,12
+,Elgin,,Nursing and residential care facilities,13
+,Digby,,Hospitals,1
+,Les Jardins-de-Napierville,,Nursing and residential care facilities,1
+,Le Haut-Saint-Laurent,,Ambulatory health care services,3
+,Québec,,Ambulatory health care services,43
+,Kent,,Nursing and residential care facilities,4
+,Columbia-Shuswap,,Hospitals,3
+,Laval,,Nursing and residential care facilities,28
+,Halton,,Ambulatory health care services,23
+,Le Haut-Richelieu,,Hospitals,6
+,Queens,,Ambulatory health care services,15
+,Division No. 18,,Hospitals,10
+,Nipissing,,Ambulatory health care services,16
+,Division No.  9,,Hospitals,10
+,Beauharnois-Salaberry,,Hospitals,1
+,Pierre-De Saurel,,Ambulatory health care services,3
+,Waterloo,,Ambulatory health care services,30
+,Nicolet-Yamaska,,Nursing and residential care facilities,2
+,La Haute-Yamaska,,Hospitals,4
+,Nicolet-Yamaska,,Ambulatory health care services,4
+,Acton,,Ambulatory health care services,1
+,Middlesex,,Hospitals,9
+,Portneuf,,Ambulatory health care services,8
+,Kenora,,Hospitals,8
+,Frontenac,,Nursing and residential care facilities,17
+,Lotbinière,,Nursing and residential care facilities,4
+,D'Autray,,Ambulatory health care services,4
+,Gatineau,,Hospitals,13
+,Shelburne,,Hospitals,1
+,La Matanie,,Ambulatory health care services,4
+,York,,Nursing and residential care facilities,69
+,Maskinongé,,Hospitals,1
+,Division No.  2,,Ambulatory health care services,6
+,Timiskaming,,Ambulatory health care services,9
+,Central Coast,,Hospitals,1
+,Division No. 22,,Ambulatory health care services,4
+,Drummond,,Nursing and residential care facilities,5
+,Division No.  7,,Hospitals,21
+,Kings,,Ambulatory health care services,7
+,La Côte-de-Gaspé,,Nursing and residential care facilities,1
+,Les Sources,,Hospitals,1
+,Sudbury,,Hospitals,1
+,Pontiac,,Nursing and residential care facilities,2
+,Maria-Chapdelaine,,Hospitals,1
+,Portneuf,,Nursing and residential care facilities,6
+,Témiscouata,,Nursing and residential care facilities,3
+,Argenteuil,,Hospitals,2
+,Toronto,,Nursing and residential care facilities,206
+,Le Haut-Saint-François,,Nursing and residential care facilities,2
+,Nipissing,,Hospitals,3
+,Nipissing,,Nursing and residential care facilities,11
+,Squamish-Lillooet,,Ambulatory health care services,4
+,Thérèse-De Blainville,,Hospitals,3
+,Halifax,,Hospitals,12
+,Cariboo,,Nursing and residential care facilities,10
+,Maskinongé,,Ambulatory health care services,4
+,Rimouski-Neigette,,Hospitals,2
+,Deux-Montagnes,,Nursing and residential care facilities,4
+,Middlesex,,Nursing and residential care facilities,51
+,Division No. 16,,Hospitals,9
+,Mékinac,,Nursing and residential care facilities,2
+,Nord-du-Québec,,Nursing and residential care facilities,10
+,Elgin,,Ambulatory health care services,11
+,Roussillon,,Hospitals,3
+,Division No. 14,,Ambulatory health care services,7
+,Drummond,,Hospitals,3
+,Simcoe,,Ambulatory health care services,35
+,Lennox and Addington,,Hospitals,1
+,D'Autray,,Nursing and residential care facilities,4
+,L'Île-d'Orléans,,Nursing and residential care facilities,1
+,Les Laurentides,,Ambulatory health care services,6
+,Okanagan-Similkameen,,Nursing and residential care facilities,19
+,Prince,,Hospitals,4
+,Division No.  1,,Hospitals,17
+,Gloucester,,Nursing and residential care facilities,8
+,Dufferin,,Nursing and residential care facilities,9
+,Bonaventure,,Hospitals,1
+,Unknown,,Ambulatory health care services,102
+,Lotbinière,,Ambulatory health care services,3
+,Division No.  5,,Hospitals,17
+,Les Jardins-de-Napierville,,Ambulatory health care services,3
+,Colchester,,Ambulatory health care services,1
+,Lévis,,Hospitals,6
+,Charlevoix-Est,,Hospitals,1
+,Beauce-Sartigan,,Ambulatory health care services,4
+,Carleton,,Nursing and residential care facilities,3
+,Thunder Bay,,Hospitals,7
+,Cochrane,,Nursing and residential care facilities,16
+,Alberni-Clayoquot,,Ambulatory health care services,1
+,East Kootenay,,Nursing and residential care facilities,12
+,Comox Valley,,Hospitals,2
+,Shawinigan,,Hospitals,5
+,Peterborough,,Hospitals,1
+,Toronto,,Hospitals,36
+,Abitibi-Ouest,,Nursing and residential care facilities,3
+,Nord-du-Québec,,Ambulatory health care services,31
+,Skeena-Queen Charlotte,,Hospitals,5
+,Le Granit,,Nursing and residential care facilities,2
+,Thunder Bay,,Nursing and residential care facilities,18
+,Mirabel,,Nursing and residential care facilities,1
+,La Matapédia,,Nursing and residential care facilities,1
+,Pontiac,,Ambulatory health care services,5
+,Les Maskoutains,,Ambulatory health care services,7
+,Les Etchemins,,Ambulatory health care services,2
+,Powell River,,Hospitals,1
+,Les Moulins,,Nursing and residential care facilities,3
+,La Haute-Côte-Nord,,Ambulatory health care services,2
+,Peace River,,Ambulatory health care services,4
+,Avignon,,Ambulatory health care services,6
+,Halton,,Nursing and residential care facilities,53
+,La Haute-Gaspésie,,Nursing and residential care facilities,3
+,Les Collines-de-l'Outaouais,,Hospitals,2
+,Les Collines-de-l'Outaouais,,Ambulatory health care services,5
+,Pontiac,,Hospitals,1
+,Le Haut-Richelieu,,Nursing and residential care facilities,6
+,Comox Valley,,Nursing and residential care facilities,9
+,Bulkley-Nechako,,Hospitals,4
+,Portneuf,,Hospitals,2
+,Haldimand-Norfolk,,Ambulatory health care services,6
+,Rainy River,,Hospitals,3
+,Antigonish,,Hospitals,1
+,Algoma,,Nursing and residential care facilities,16
+,Niagara,,Hospitals,8
+,Division No. 14,,Hospitals,13
+,Arthabaska,,Nursing and residential care facilities,5
+,Northern Rockies,,Ambulatory health care services,1
+,Central Kootenay,,Nursing and residential care facilities,22
+,La Vallée-du-Richelieu,,Nursing and residential care facilities,8
+,Division No.  3,,Nursing and residential care facilities,3
+,Division No.  8,,Ambulatory health care services,7
+,Manicouagan,,Ambulatory health care services,5
+,Charlevoix,,Hospitals,2
+,Kings,,Nursing and residential care facilities,20
+,Division No. 21,,Hospitals,5
+,Thérèse-De Blainville,,Nursing and residential care facilities,7
+,Peel,,Hospitals,4
+,Hamilton,,Hospitals,9
+,Montréal,,Ambulatory health care services,67
+,Papineau,,Ambulatory health care services,3
+,Durham,,Ambulatory health care services,19
+,Les Pays-d'en-Haut,,Nursing and residential care facilities,4
+,Le Granit,,Hospitals,2
+,Essex,,Ambulatory health care services,26
+,Montcalm,,Ambulatory health care services,2
+,Bonaventure,,Ambulatory health care services,2
+,Renfrew,,Ambulatory health care services,17
+,Brome-Missisquoi,,Nursing and residential care facilities,4
+,Division No. 11,,Nursing and residential care facilities,25
+,Francheville,,Ambulatory health care services,15
+,Halifax,,Ambulatory health care services,2
+,Haldimand-Norfolk,,Hospitals,3
+,Sudbury,,Nursing and residential care facilities,3
+,Division No.  3,,Ambulatory health care services,9
+,La Haute-Côte-Nord,,Hospitals,2
+,Division No. 18,,Ambulatory health care services,9
+,East Kootenay,,Hospitals,3
+,Yukon,,Hospitals,3
+,Bonaventure,,Nursing and residential care facilities,3
+,Westmorland,,Hospitals,3
+,Le Saguenay-et-son-Fjord,,Nursing and residential care facilities,13
+,L'Assomption,,Nursing and residential care facilities,4
+,Sudbury,,Ambulatory health care services,6
+,Abitibi-Ouest,,Ambulatory health care services,7
+,Bellechasse,,Ambulatory health care services,5
+,Pierre-De Saurel,,Hospitals,2
+,Bulkley-Nechako,,Ambulatory health care services,1
+,Beauce-Sartigan,,Nursing and residential care facilities,3
+,Thunder Bay,,Ambulatory health care services,41
+,Division No.  4,,Ambulatory health care services,4
+,La Mitis,,Hospitals,1
+,L'Assomption,,Hospitals,3
+,Parry Sound,,Hospitals,1
+,Albert,,Nursing and residential care facilities,3
+,Squamish-Lillooet,,Hospitals,2
+,Cape Breton,,Hospitals,5
+,Le Rocher-Percé,,Hospitals,1
+,Dufferin,,Ambulatory health care services,4
+,La Vallée-de-l'Or,,Nursing and residential care facilities,4
+,Memphrémagog,,Ambulatory health care services,4
+,Marguerite-D'Youville,,Ambulatory health care services,6
+,Strathcona,,Nursing and residential care facilities,14
+,Deux-Montagnes,,Ambulatory health care services,5
+,Le Domaine-du-Roy,,Hospitals,1
+,Timiskaming,,Nursing and residential care facilities,7
+,Joliette,,Ambulatory health care services,4
+,Kawartha Lakes,,Ambulatory health care services,3
+,Prince Edward,,Ambulatory health care services,3
+,Okanagan-Similkameen,,Ambulatory health care services,5
+,Avignon,,Hospitals,1
+,Rivière-du-Loup,,Ambulatory health care services,7
+,Northumberland,,Ambulatory health care services,6
+,Kent,,Hospitals,1
+,Division No.  3,,Hospitals,11
+,Nicolet-Yamaska,,Hospitals,2
+,North Okanagan,,Nursing and residential care facilities,29
+,Bruce,,Hospitals,6
+,Kitimat-Stikine,,Nursing and residential care facilities,6
+,Central Kootenay,,Ambulatory health care services,3
+,Central Kootenay,,Hospitals,3
+,Central Coast,,Ambulatory health care services,2
+,Division No. 13,,Hospitals,13
+,Bécancour,,Ambulatory health care services,3
+,Fraser-Fort George,,Nursing and residential care facilities,18
+,Restigouche,,Hospitals,3
+,Northern Rockies,,Hospitals,1
+,Montcalm,,Nursing and residential care facilities,3
+,Le Domaine-du-Roy,,Nursing and residential care facilities,4
+,Témiscamingue,,Ambulatory health care services,9
+,La Rivière-du-Nord,,Nursing and residential care facilities,17
+,Division No.  1,,Ambulatory health care services,12
+,Division No. 22,,Hospitals,2
+,Shelburne,,Nursing and residential care facilities,4
+,Division No. 16,,Ambulatory health care services,10
+,Bécancour,,Hospitals,1
+,Communauté maritime des Îles-de-la-Madeleine,,Hospitals,1
+,Brant,,Hospitals,1
+,Shawinigan,,Nursing and residential care facilities,3
+,Division No. 14,,Nursing and residential care facilities,2
+,Ottawa,,Nursing and residential care facilities,111
+,Victoria,,Nursing and residential care facilities,5
+,Division No. 15,,Nursing and residential care facilities,9
+,Division No. 17,,Nursing and residential care facilities,4
+,Kootenay Boundary,,Hospitals,2
+,Essex,,Nursing and residential care facilities,48
+,Lévis,,Nursing and residential care facilities,8
+,Central Okanagan,,Ambulatory health care services,13
+,Sunbury,,Hospitals,1
+,Hastings,,Ambulatory health care services,19
+,Division No.  6,,Nursing and residential care facilities,6
+,North Okanagan,,Ambulatory health care services,2
+,Kamouraska,,Hospitals,2
+,Haldimand-Norfolk,,Nursing and residential care facilities,19
+,Inverness,,Hospitals,2
+,Francheville,,Nursing and residential care facilities,12
+,Lennox and Addington,,Ambulatory health care services,5
+,Lanark,,Ambulatory health care services,4
+,Sunshine Coast,,Nursing and residential care facilities,7
+,Saint John,,Hospitals,4
+,Nanaimo,,Nursing and residential care facilities,36
+,Ottawa,,Hospitals,10
+,Rivière-du-Loup,,Nursing and residential care facilities,4
+,Prince,,Ambulatory health care services,10
+,Leeds and Grenville,,Nursing and residential care facilities,18
+,Lambton,,Ambulatory health care services,17
+,Dufferin,,Hospitals,1
+,Frontenac,,Ambulatory health care services,18
+,Le Haut-Saint-Laurent,,Nursing and residential care facilities,3
+,Les Basques,,Ambulatory health care services,3
+,Gloucester,,Hospitals,4
+,La Haute-Yamaska,,Nursing and residential care facilities,8
+,Longueuil,,Hospitals,18
+,Maria-Chapdelaine,,Nursing and residential care facilities,2
+,Manitoulin,,Hospitals,2
+,Maria-Chapdelaine,,Ambulatory health care services,4
+,Northumberland,,Nursing and residential care facilities,28
+,Mékinac,,Ambulatory health care services,2
+,Marguerite-D'Youville,,Nursing and residential care facilities,1
+,La Tuque,,Ambulatory health care services,1
+,Wellington,,Nursing and residential care facilities,28
+,Cariboo,,Hospitals,3
+,Parry Sound,,Nursing and residential care facilities,5
+,Kootenay Boundary,,Nursing and residential care facilities,7
+,Sherbrooke,,Nursing and residential care facilities,9
+,Division No.  9,,Ambulatory health care services,8
+,Westmorland,,Nursing and residential care facilities,71
+,Kamouraska,,Nursing and residential care facilities,3
+,Shawinigan,,Ambulatory health care services,5
+,Le Val-Saint-François,,Hospitals,1
+,Cowichan Valley,,Hospitals,3
+,Division No. 18,,Nursing and residential care facilities,3
+,La Haute-Côte-Nord,,Nursing and residential care facilities,2
+,Deux-Montagnes,,Hospitals,5
+,Les Sources,,Nursing and residential care facilities,1
+,Perth,,Hospitals,3
+,Le Domaine-du-Roy,,Ambulatory health care services,6
+,Division No.  7,,Nursing and residential care facilities,3
+,Columbia-Shuswap,,Ambulatory health care services,4
+,Le Granit,,Ambulatory health care services,4
+,Témiscamingue,,Hospitals,2
+,"Stormont, Dundas and Glengarry",,Ambulatory health care services,11
+,Greater Sudbury / Grand Sudbury,,Ambulatory health care services,24
+,Beauharnois-Salaberry,,Nursing and residential care facilities,8
+,Sherbrooke,,Hospitals,8
+,Richmond,,Nursing and residential care facilities,2
+,Vaudreuil-Soulanges,,Nursing and residential care facilities,6
+,La Vallée-de-la-Gatineau,,Nursing and residential care facilities,2
+,Division No.  2,,Nursing and residential care facilities,5
+,Manicouagan,,Nursing and residential care facilities,3
+,Madawaska,,Hospitals,1
+,Unknown,,Nursing and residential care facilities,294
+,Niagara,,Nursing and residential care facilities,64
+,Arthabaska,,Ambulatory health care services,12
+,La Matanie,,Nursing and residential care facilities,2
+,Halton,,Hospitals,4
+,Division No. 23,,Hospitals,4
+,Oxford,,Hospitals,3
+,Kings,,Hospitals,4
+,La Vallée-de-la-Gatineau,,Ambulatory health care services,5
+,Essex,,Hospitals,5
+,Nanaimo,,Ambulatory health care services,4
+,Laval,,Hospitals,9
+,Niagara,,Ambulatory health care services,31
+,La Haute-Yamaska,,Ambulatory health care services,10
+,Fraser Valley,,Hospitals,6
+,Division No. 15,,Hospitals,15
+,Skeena-Queen Charlotte,,Nursing and residential care facilities,1
+,Montmagny,,Nursing and residential care facilities,2
+,Matawinie,,Nursing and residential care facilities,4
+,Sunshine Coast,,Ambulatory health care services,1
+,Fraser Valley,,Ambulatory health care services,14
+,Roussillon,,Nursing and residential care facilities,7
+,L'Érable,,Nursing and residential care facilities,5
+,Laval,,Ambulatory health care services,13
+,Central Okanagan,,Hospitals,1
+,Division No.  8,,Nursing and residential care facilities,6
+,Restigouche,,Nursing and residential care facilities,3
+,Nord-du-Québec,,Hospitals,9
+,Thérèse-De Blainville,,Ambulatory health care services,8
+,Queens,,Hospitals,4
+,Division No.  1,,Nursing and residential care facilities,8
+,La Matanie,,Hospitals,1
+,Memphrémagog,,Hospitals,1
+,Prescott and Russell,,Ambulatory health care services,7
+,Division No. 21,,Ambulatory health care services,2
+,Sept-Rivières--Caniapiscau,,Nursing and residential care facilities,4
+,Avignon,,Nursing and residential care facilities,2
+,Lac-Saint-Jean-Est,,Nursing and residential care facilities,3
+,Pictou,,Nursing and residential care facilities,7
+,Capital,,Hospitals,6
+,La Mitis,,Ambulatory health care services,5
+,La Vallée-de-l'Or,,Hospitals,5
+,Communauté maritime des Îles-de-la-Madeleine,,Nursing and residential care facilities,2
+,Minganie--Le Golfe-du-Saint-Laurent,,Ambulatory health care services,16
+,Le Saguenay-et-son-Fjord,,Hospitals,5
+,Division No. 10,,Ambulatory health care services,12
+,La Nouvelle-Beauce,,Nursing and residential care facilities,3
+,Rimouski-Neigette,,Nursing and residential care facilities,3
+,L'Islet,,Ambulatory health care services,3
+,Matawinie,,Ambulatory health care services,4
+,Peel,,Ambulatory health care services,32
+,Vaudreuil-Soulanges,,Ambulatory health care services,4
+,Rouville,,Nursing and residential care facilities,2
+,Brant,,Nursing and residential care facilities,22
+,Greater Sudbury / Grand Sudbury,,Hospitals,3
+,Grey,,Nursing and residential care facilities,21
+,Division No. 23,,Ambulatory health care services,1
+,Coaticook,,Hospitals,1
+,Region 4,,Ambulatory health care services,1
+,Kawartha Lakes,,Nursing and residential care facilities,13
+,Les Maskoutains,,Hospitals,3
+,Le Val-Saint-François,,Nursing and residential care facilities,3
+,Sherbrooke,,Ambulatory health care services,10
+,Annapolis,,Nursing and residential care facilities,5
+,Prescott and Russell,,Hospitals,2
+,Hants,,Hospitals,1
+,Middlesex,,Ambulatory health care services,32
+,Le Val-Saint-François,,Ambulatory health care services,4
+,Division No.  6,,Hospitals,23
+,Strathcona,,Ambulatory health care services,5
+,Abitibi,,Nursing and residential care facilities,2
+,Kivalliq,,Hospitals,1
+,Division No. 12,,Nursing and residential care facilities,1
+,Muskoka,,Ambulatory health care services,7
+,Region 1,,Hospitals,1
+,Pierre-De Saurel,,Nursing and residential care facilities,6
+,Yukon,,Nursing and residential care facilities,4
+,Hastings,,Nursing and residential care facilities,24
+,Albert,,Ambulatory health care services,2
+,Rouville,,Ambulatory health care services,3
+,Lennox and Addington,,Nursing and residential care facilities,9
+,Division No. 19,,Hospitals,9
+,Acton,,Nursing and residential care facilities,1
+,Charlevoix-Est,,Nursing and residential care facilities,3
+,Renfrew,,Hospitals,5
+,Thompson-Nicola,,Nursing and residential care facilities,33
+,Brome-Missisquoi,,Hospitals,2
+,Rimouski-Neigette,,Ambulatory health care services,7
+,Renfrew,,Nursing and residential care facilities,19
+,Peterborough,,Nursing and residential care facilities,22
+,Westmorland,,Ambulatory health care services,11
+,Central Okanagan,,Nursing and residential care facilities,32
+,Timiskaming,,Hospitals,3
+,Robert-Cliche,,Nursing and residential care facilities,1
+,Thompson-Nicola,,Hospitals,4
+,Queens,,Nursing and residential care facilities,39
+,Robert-Cliche,,Ambulatory health care services,2
+,Montmagny,,Ambulatory health care services,5
+,Peterborough,,Ambulatory health care services,15
+,Annapolis,,Hospitals,2
+,Waterloo,,Nursing and residential care facilities,56
+,Argenteuil,,Nursing and residential care facilities,1
+,La Nouvelle-Beauce,,Ambulatory health care services,2
+,Abitibi-Ouest,,Hospitals,1
+,Rouyn-Noranda,,Hospitals,2
+,Chatham-Kent,,Ambulatory health care services,12
+,La Côte-de-Beaupré,,Ambulatory health care services,1
+,Les Laurentides,,Hospitals,1
+,Sunshine Coast,,Hospitals,1
+,Les Basques,,Nursing and residential care facilities,1
+,Powell River,,Nursing and residential care facilities,13
+,Bellechasse,,Nursing and residential care facilities,4
+,Huron,,Ambulatory health care services,11
+,Beauharnois-Salaberry,,Ambulatory health care services,6
+,Les Appalaches,,Ambulatory health care services,6
+,Capital,,Ambulatory health care services,24
+,Haliburton,,Nursing and residential care facilities,3
+,Greater Vancouver,,Hospitals,24
+,Kawartha Lakes,,Hospitals,1
+,Division No. 12,,Ambulatory health care services,2
+,Fraser-Fort George,,Hospitals,3
+,La Vallée-du-Richelieu,,Ambulatory health care services,4
+,Les Basques,,Hospitals,1
+,Minganie--Le Golfe-du-Saint-Laurent,,Nursing and residential care facilities,1
+,Chatham-Kent,,Hospitals,2
+,Prince Edward,,Nursing and residential care facilities,10
+,Colchester,,Nursing and residential care facilities,9
+,Saint John,,Nursing and residential care facilities,7
+,Pictou,,Hospitals,2
+,Témiscamingue,,Nursing and residential care facilities,3
+,Québec,,Hospitals,24
+,Cariboo,,Ambulatory health care services,4
+,L'Île-d'Orléans,,Ambulatory health care services,2
+,Elgin,,Hospitals,1
+,Bruce,,Ambulatory health care services,6
+,Prescott and Russell,,Nursing and residential care facilities,25
+,Yukon,,nursing and residential care facilities,2
+,Longueuil,,Nursing and residential care facilities,25
+,L'Assomption,,Ambulatory health care services,6
+,Abitibi,,Hospitals,2
+,Muskoka,,Hospitals,2
+,Columbia-Shuswap,,Nursing and residential care facilities,12
+,Les Pays-d'en-Haut,,Ambulatory health care services,2
+,Peace River,,Nursing and residential care facilities,11
+,Cowichan Valley,,Nursing and residential care facilities,21
+,Témiscouata,,Hospitals,3
+,Lac-Saint-Jean-Est,,Hospitals,3
+,Lévis,,Ambulatory health care services,8
+,Le Saguenay-et-son-Fjord,,Ambulatory health care services,12
+,Lambton,,Nursing and residential care facilities,17
+,Charlevoix-Est,,Ambulatory health care services,6
+,Perth,,Ambulatory health care services,15
+,Hants,,Nursing and residential care facilities,8
+,Charlotte,,Nursing and residential care facilities,5
+,Haliburton,,Ambulatory health care services,4
+,Charlotte,,Hospitals,2
+,Charlevoix,,Ambulatory health care services,6
+,Hastings,,Hospitals,3
+,Yarmouth,,Nursing and residential care facilities,5
+,Division No. 17,,Hospitals,15
+,Prince Edward,,Hospitals,1
+,Huron,,Nursing and residential care facilities,14
+,Lunenburg,,Hospitals,2
+,Mount Waddington,,Hospitals,4
+,Division No. 20,,Ambulatory health care services,1
+,L'Islet,,Nursing and residential care facilities,2
+,Lanark,,Nursing and residential care facilities,17
+,North Okanagan,,Hospitals,1
+,La Jacques-Cartier,,Nursing and residential care facilities,1
+,Alberni-Clayoquot,,Nursing and residential care facilities,7
+,Francheville,,Hospitals,5
+,La Côte-de-Gaspé,,Hospitals,5
+,La Matapédia,,Hospitals,2
+,Les Laurentides,,Nursing and residential care facilities,5
+,"Stormont, Dundas and Glengarry",,Hospitals,4
+,Division No. 10,,Nursing and residential care facilities,5
+,Les Maskoutains,,Nursing and residential care facilities,7
+,Division No. 10,,Hospitals,13
+,Digby,,Nursing and residential care facilities,4
+,Cumberland,,Hospitals,4
+,Beauce-Sartigan,,Hospitals,2
+,Cochrane,,Hospitals,12
+,Joliette,,Nursing and residential care facilities,5
+,Antoine-Labelle,,Ambulatory health care services,5
+,Frontenac,,Hospitals,4
+,Guysborough,,Nursing and residential care facilities,3
+,Sept-Rivières--Caniapiscau,,Hospitals,6
+,Bruce,,Nursing and residential care facilities,17
+,Communauté maritime des Îles-de-la-Madeleine,,Ambulatory health care services,5
+,Guysborough,,Hospitals,2
+,Rainy River,,Nursing and residential care facilities,3
+,Chatham-Kent,,Nursing and residential care facilities,19
+,Fraser Valley,,Nursing and residential care facilities,60
+,Waterloo,,Hospitals,3
+,Drummond,,Ambulatory health care services,7
+,Minganie--Le Golfe-du-Saint-Laurent,,Hospitals,2
+,Prince,,Nursing and residential care facilities,16
+,Division No.  8,,Hospitals,17
+,La Tuque,,Hospitals,1
+,Division No.  4,,Hospitals,12
+,La Tuque,,Nursing and residential care facilities,3
+,Lanark,,Hospitals,4
+,Haliburton,,Hospitals,2
+,Greater Sudbury / Grand Sudbury,,Nursing and residential care facilities,16
+,Témiscouata,,Ambulatory health care services,4
+,Division No. 15,,Ambulatory health care services,15
+,Kitimat-Stikine,,Hospitals,3
+,Division No. 11,,Hospitals,38
+,Colchester,,Hospitals,2
+,Division No. 11,,Ambulatory health care services,15
+,Division No. 20,,Hospitals,2
+,Oxford,,Nursing and residential care facilities,20
+,Inverness,,Nursing and residential care facilities,4
+,L'Érable,,Ambulatory health care services,3
+,Nanaimo,,Hospitals,1
+,Le Rocher-Percé,,Nursing and residential care facilities,2
+,La Vallée-de-la-Gatineau,,Hospitals,2
+,Leeds and Grenville,,Ambulatory health care services,12
+,Les Appalaches,,Nursing and residential care facilities,6
+,Abitibi,,Ambulatory health care services,6
+,La Jacques-Cartier,,Ambulatory health care services,1
+,Montréal,,Nursing and residential care facilities,163
+,Québec,,Nursing and residential care facilities,45
+,Charlevoix,,Nursing and residential care facilities,1
+,Leeds and Grenville,,Hospitals,4
+,Squamish-Lillooet,,Nursing and residential care facilities,5
+,Simcoe,,Nursing and residential care facilities,68
+,Durham,,Nursing and residential care facilities,47
+,Division No. 16,,Nursing and residential care facilities,4
+,Cochrane,,Ambulatory health care services,25
+,Toronto,,Ambulatory health care services,151
+,Ottawa,,Ambulatory health care services,58
+,,hudson bay,Hospitals,1
+,,châteauguay,Hospitals,3
+,,plaster rock,Hospitals,1
+,,beaverton,Nursing and residential care facilities,1
+,,exeter,Ambulatory health care services,1
+,,atikokan,Hospitals,1
+,,shoal lake,Hospitals,1
+,,rawdon,Nursing and residential care facilities,2
+,,rainbow lake,Hospitals,1
+,,penticton,Nursing and residential care facilities,9
+,,boisbriand,Ambulatory health care services,1
+,,beauharnois,Ambulatory health care services,1
+,,zurich,Ambulatory health care services,1
+,,quesnel,Nursing and residential care facilities,2
+,,napanee,Ambulatory health care services,2
+,,duck lake,Nursing and residential care facilities,1
+,,bracebridge,Ambulatory health care services,3
+,,leamington,Hospitals,1
+,,trenton,Hospitals,1
+,,ingersoll,Nursing and residential care facilities,3
+,,wardsville,Nursing and residential care facilities,2
+,,whitemouth,Nursing and residential care facilities,1
+,,maria,Hospitals,2
+,,amqui,Hospitals,3
+,,sharbot lake,Ambulatory health care services,2
+,,plympton-wyoming,Ambulatory health care services,2
+,,powell river,Hospitals,1
+,,knutsford,Nursing and residential care facilities,1
+,,châteauguay,Ambulatory health care services,4
+,,the pas,Hospitals,1
+,,burgeo,Hospitals,1
+,,st albert,Nursing and residential care facilities,3
+,,greenfield park,Hospitals,1
+,,saint-césaire,Nursing and residential care facilities,1
+,,renfrew,Nursing and residential care facilities,4
+,,iroquois falls,Nursing and residential care facilities,1
+,,smiths falls,Nursing and residential care facilities,3
+,,salmon arm,Nursing and residential care facilities,10
+,,brossard,Nursing and residential care facilities,4
+,,langham,Nursing and residential care facilities,1
+,,magrath,Hospitals,1
+,,morris,Hospitals,1
+,,port-cartier,Hospitals,1
+,,kuujjuarapik,Hospitals,1
+,,whitecourt,Hospitals,1
+,,ponoka,Hospitals,2
+,,granby,Hospitals,4
+,,l'islet,Nursing and residential care facilities,1
+,,les îles-de-la-madeleine,Hospitals,2
+,,gibsons,Nursing and residential care facilities,1
+,,saint-félicien,Nursing and residential care facilities,1
+,,percé,Ambulatory health care services,2
+,,eastend,Ambulatory health care services,1
+,,wendake,Nursing and residential care facilities,1
+,,saint-pamphile,Ambulatory health care services,1
+,,rockglen,Nursing and residential care facilities,1
+,,overton,Nursing and residential care facilities,1
+,,kawartha lakes,Nursing and residential care facilities,12
+,,hamilton (dundas),Nursing and residential care facilities,1
+,,buchans,Hospitals,1
+,,alfred,Nursing and residential care facilities,2
+,,les méchins,Ambulatory health care services,1
+,,russell,Hospitals,1
+,,lebel-sur-quévillon,Hospitals,1
+,,sainte-perpétue,Nursing and residential care facilities,1
+,,sayabec,Ambulatory health care services,1
+,,invermere,Nursing and residential care facilities,2
+,,saskatoon,Nursing and residential care facilities,14
+,,notre-dame-du-nord,Ambulatory health care services,1
+,,courtland,Nursing and residential care facilities,1
+,,laval,Ambulatory health care services,13
+,,saint-narcisse,Nursing and residential care facilities,1
+,,west vancouver,Ambulatory health care services,4
+,,mississauga,Hospitals,2
+,,timmins,Ambulatory health care services,16
+,,kensington,Ambulatory health care services,1
+,,woodlands,Ambulatory health care services,1
+,,carbonear,Nursing and residential care facilities,1
+,,hartney,Hospitals,1
+,,rimouski,Ambulatory health care services,7
+,,bassano,Hospitals,1
+,,nakusp,Hospitals,1
+,,pugwash,Nursing and residential care facilities,1
+,,gimli,Hospitals,1
+,,alexandria,Hospitals,1
+,,sarnia,Hospitals,1
+,,laurier-station,Ambulatory health care services,2
+,,summerland,Nursing and residential care facilities,3
+,,fort macleod,Hospitals,1
+,,blanc-sablon,Hospitals,1
+,,rosetown,Nursing and residential care facilities,1
+,,mission,Nursing and residential care facilities,8
+,,slave lake,Hospitals,1
+,,warfield,Nursing and residential care facilities,1
+,,wiarton,Nursing and residential care facilities,1
+,,mont-royal,Ambulatory health care services,1
+,,cardston,Hospitals,1
+,,eastern passage,Nursing and residential care facilities,1
+,,la pêche,Ambulatory health care services,1
+,,chesterville,Nursing and residential care facilities,1
+,,saint-antoine-sur-richelieu,Nursing and residential care facilities,1
+,,hanover,Ambulatory health care services,1
+,,gladstone,Hospitals,1
+,,sooke,Ambulatory health care services,1
+,,saint-gabriel-de-valcartier,Nursing and residential care facilities,1
+,,carberry,Hospitals,1
+,,l'île-d'anticosti,Ambulatory health care services,1
+,,windsor,Nursing and residential care facilities,31
+,,shellbrook,Ambulatory health care services,1
+,,guelph,Hospitals,2
+,,farnham,Nursing and residential care facilities,2
+,,guelph,Nursing and residential care facilities,14
+,,sainte-geneviève-de-batiscan,Ambulatory health care services,1
+,,aupaluk,Ambulatory health care services,1
+,,brantford,Ambulatory health care services,13
+,,tamworth,Nursing and residential care facilities,1
+,,dryden,Nursing and residential care facilities,1
+,,ambrose,Ambulatory health care services,1
+,,mcbride,Hospitals,1
+,,vaudreuil-dorion,Nursing and residential care facilities,2
+,,neilburg,Ambulatory health care services,1
+,,fort nelson,Nursing and residential care facilities,1
+,,little britain,Nursing and residential care facilities,1
+,,dolbeau-mistassini,Ambulatory health care services,3
+,,corner brook,Nursing and residential care facilities,1
+,,gambo,Ambulatory health care services,1
+,,kelowna,Ambulatory health care services,7
+,,coquitlam,Hospitals,1
+,,mccreary,Hospitals,1
+,,saint-marc-des-carrières,Hospitals,1
+,,glace bay,Nursing and residential care facilities,3
+,,north rustico,Ambulatory health care services,1
+,,perth-andover,Nursing and residential care facilities,1
+,,chandler,Hospitals,1
+,,leoville,Ambulatory health care services,2
+,,milverton,Nursing and residential care facilities,1
+,,repentigny,Hospitals,2
+,,lewisporte,Ambulatory health care services,2
+,,rivière-au-tonnerre,Ambulatory health care services,1
+,,quesnel,Ambulatory health care services,1
+,,winnipeg,Ambulatory health care services,2
+,,port hardy,Hospitals,1
+,,asbestos,Ambulatory health care services,2
+,,moose jaw,Nursing and residential care facilities,4
+,,shellbrook,Hospitals,2
+,,barrys bay,Hospitals,1
+,,tatamagouche,Hospitals,1
+,,amqui,Ambulatory health care services,2
+,,evansburg,Nursing and residential care facilities,1
+,,saint-hyacinthe,Nursing and residential care facilities,7
+,,kawartha lakes,Hospitals,1
+,,cabri,Nursing and residential care facilities,1
+,,fort nelson,Ambulatory health care services,1
+,,hawkesbury,Ambulatory health care services,3
+,,brookfield,Nursing and residential care facilities,1
+,,southwold,Nursing and residential care facilities,1
+,,milton,Hospitals,1
+,,simcoe,Nursing and residential care facilities,6
+,,lucky lake,Nursing and residential care facilities,1
+,,delaware,Nursing and residential care facilities,1
+,,lake country,Ambulatory health care services,2
+,,forteau,Hospitals,1
+,,sunderland,Nursing and residential care facilities,1
+,,norris point,Hospitals,1
+,,umiujaq,Ambulatory health care services,1
+,,quinte west,Ambulatory health care services,2
+,,sainte-anne-de-beaupré,Ambulatory health care services,1
+,,brossard,Ambulatory health care services,2
+,,killarney,Ambulatory health care services,1
+,,st anthony,Hospitals,2
+,,north sydney,Nursing and residential care facilities,3
+,,mississauga,Nursing and residential care facilities,37
+,,keremeos,Nursing and residential care facilities,2
+,,abbotsford,Nursing and residential care facilities,40
+,,saint-lin--laurentides,Nursing and residential care facilities,1
+,,humboldt,Hospitals,2
+,,vankleek hill,Nursing and residential care facilities,1
+,,thicket portage,Ambulatory health care services,1
+,,kamsack,Ambulatory health care services,2
+,,brockville,Hospitals,4
+,,wawota,Nursing and residential care facilities,1
+,,matane,Hospitals,1
+,,shawinigan-sud,Hospitals,1
+,,hamilton,Hospitals,9
+,,richmond,Ambulatory health care services,11
+,,valleyview,Hospitals,1
+,,l'ancienne-lorette,Ambulatory health care services,1
+,,saguenay,Ambulatory health care services,9
+,,richmond hill,Hospitals,1
+,,birch hills,Nursing and residential care facilities,1
+,,tweed,Ambulatory health care services,1
+,,saint-célestin,Nursing and residential care facilities,1
+,,alma,Nursing and residential care facilities,3
+,,keremeos,Ambulatory health care services,1
+,,mount forest,Hospitals,1
+,,stoughton,Nursing and residential care facilities,1
+,,pontiac,Ambulatory health care services,1
+,,linden,Nursing and residential care facilities,1
+,,candiac,Nursing and residential care facilities,1
+,,taschereau,Ambulatory health care services,1
+,,fort quappelle,Hospitals,1
+,,lions head,Hospitals,1
+,,peterborough,Nursing and residential care facilities,17
+,,saanichton,Hospitals,1
+,,iroquois falls,Hospitals,1
+,,dokis,Ambulatory health care services,1
+,,carleton place,Hospitals,1
+,,glace bay,Hospitals,1
+,,sydney,Hospitals,1
+,,ituna,Ambulatory health care services,1
+,,maniwaki,Hospitals,3
+,,lac brochet,Hospitals,1
+,,saint-pascal,Nursing and residential care facilities,1
+,,mirabel,Ambulatory health care services,2
+,,shawville,Hospitals,1
+,,sudbury,Hospitals,3
+,,caledonia,Nursing and residential care facilities,2
+,,blondeau,Nursing and residential care facilities,1
+,,prince george,Nursing and residential care facilities,20
+,,neils harbour,Nursing and residential care facilities,1
+,,greenwich,Nursing and residential care facilities,1
+,,sainte-catherine,Nursing and residential care facilities,1
+,,eganville,Ambulatory health care services,1
+,,smoky lake,Hospitals,1
+,,les escoumins,Hospitals,1
+,,blainville,Nursing and residential care facilities,2
+,,carcross,Ambulatory health care services,1
+,,maple ridge,Hospitals,1
+,,willingdon,Ambulatory health care services,1
+,,atikokan,Ambulatory health care services,1
+,,peterborough,Hospitals,1
+,,jarvis,Nursing and residential care facilities,1
+,,manitouwadge,Ambulatory health care services,1
+,,100 mile house,Hospitals,1
+,,burns lake,Hospitals,1
+,,notre-dame-des-monts,Ambulatory health care services,1
+,,haliburton,Nursing and residential care facilities,2
+,,baldur,Hospitals,1
+,,jasper,Nursing and residential care facilities,1
+,,delta,Nursing and residential care facilities,21
+,,athabasca,Hospitals,1
+,,beechy,Ambulatory health care services,1
+,,,Ambulatory health care services,16
+,,abbotsford,Hospitals,4
+,,montague,Nursing and residential care facilities,4
+,,montmagny,Nursing and residential care facilities,1
+,,cochrane,Nursing and residential care facilities,2
+,,vulcan,Hospitals,1
+,,happy valley-goose bay,Nursing and residential care facilities,1
+,,summerside,Nursing and residential care facilities,6
+,,fernie,Nursing and residential care facilities,1
+,,queen charlotte,Hospitals,2
+,,la crete,Hospitals,1
+,,saguenay,Hospitals,3
+,,miramichi,Nursing and residential care facilities,2
+,,stellarton,Nursing and residential care facilities,1
+,,rouyn-noranda,Nursing and residential care facilities,3
+,,dutch brook,Nursing and residential care facilities,1
+,,st. stephen,Nursing and residential care facilities,1
+,,napanee,Nursing and residential care facilities,2
+,,comox,Hospitals,1
+,,midland,Ambulatory health care services,3
+,,lampman,Ambulatory health care services,1
+,,la ronge,Hospitals,1
+,,guysborough,Hospitals,1
+,,kuujjuarapik,Ambulatory health care services,1
+,,port mcneill,Hospitals,1
+,,cole harbour,Nursing and residential care facilities,1
+,,saskatoon,Hospitals,5
+,,pembroke,Nursing and residential care facilities,8
+,,tavistock,Nursing and residential care facilities,2
+,,moncton,Ambulatory health care services,9
+,,merritt,Nursing and residential care facilities,2
+,,sauble beach,Ambulatory health care services,1
+,,bedford,Nursing and residential care facilities,1
+,,porcupine plain,Hospitals,1
+,,rivière-à-pierre,Ambulatory health care services,1
+,,north york,Hospitals,3
+,,métabetchouan,Hospitals,1
+,,leamington,Nursing and residential care facilities,7
+,,mayo,Ambulatory health care services,1
+,,smithville,Ambulatory health care services,1
+,,williams lake,Nursing and residential care facilities,8
+,,saint-chrysostome,Ambulatory health care services,1
+,,winnipeg,Hospitals,10
+,,lions head,Nursing and residential care facilities,1
+,,fruitvale,Nursing and residential care facilities,1
+,,langenburg,Ambulatory health care services,1
+,,kapuskasing,Ambulatory health care services,3
+,,sainte-julie,Ambulatory health care services,1
+,,swan lake,Hospitals,1
+,,ashern,Hospitals,1
+,,smooth rock falls,Hospitals,1
+,,gaspé,Nursing and residential care facilities,1
+,,murdochville,Hospitals,1
+,,gagetown,Nursing and residential care facilities,1
+,,vaudreuil-dorion,Hospitals,1
+,,melita,Hospitals,1
+,,whapmagoostui,Ambulatory health care services,2
+,,fergus,Ambulatory health care services,1
+,,beachburg,Nursing and residential care facilities,1
+,,botwood,Ambulatory health care services,1
+,,paradise hill,Ambulatory health care services,1
+,,whitney,Ambulatory health care services,1
+,,saint isidore,Nursing and residential care facilities,1
+,,wadena,Nursing and residential care facilities,1
+,,saint-lambert,Hospitals,2
+,,godbout,Ambulatory health care services,1
+,,hope,Nursing and residential care facilities,1
+,,mount forest,Ambulatory health care services,2
+,,vulcan,Nursing and residential care facilities,1
+,,broadview,Nursing and residential care facilities,1
+,,sheguiandah,Ambulatory health care services,1
+,,l'épiphanie,Ambulatory health care services,1
+,,victoriaville,Ambulatory health care services,11
+,,prescott,Ambulatory health care services,1
+,,labelle,Nursing and residential care facilities,1
+,,bell island,Hospitals,1
+,,nelson,Nursing and residential care facilities,8
+,,val-des-bois,Ambulatory health care services,1
+,,thornhill,Nursing and residential care facilities,1
+,,thessalon,Ambulatory health care services,2
+,,terrace bay,Hospitals,1
+,,meaford,Hospitals,1
+,,watrous,Hospitals,2
+,,erin,Nursing and residential care facilities,1
+,,pelly crossing,Ambulatory health care services,1
+,,saint thomas,Nursing and residential care facilities,6
+,,sherwood park,Hospitals,1
+,,varennes,Nursing and residential care facilities,1
+,,notre-dame-du-nord,Nursing and residential care facilities,1
+,,oyen,Hospitals,1
+,,melfort,Hospitals,1
+,,louiseville,Ambulatory health care services,1
+,,maberly,Nursing and residential care facilities,1
+,,stirling,Nursing and residential care facilities,2
+,,windsor,Hospitals,6
+,,conway,Nursing and residential care facilities,1
+,,l'isle-verte,Ambulatory health care services,1
+,,oliver,Hospitals,1
+,,terrace bay,Nursing and residential care facilities,1
+,,victoria cove,Ambulatory health care services,1
+,,bengough,Nursing and residential care facilities,1
+,,strasbourg,Ambulatory health care services,1
+,,neguac,Nursing and residential care facilities,1
+,,blind river,Hospitals,1
+,,manning,Hospitals,1
+,,chisasibi,Nursing and residential care facilities,1
+,,cold lake,Hospitals,1
+,,grand forks,Hospitals,1
+,,bathurst,Hospitals,1
+,,grenville,Ambulatory health care services,1
+,,brentwood bay,Nursing and residential care facilities,3
+,,saint-jean-sur-richelieu,Ambulatory health care services,6
+,,fort st john,Nursing and residential care facilities,3
+,,boyle,Hospitals,1
+,,chicoutimi,Hospitals,1
+,,owen sound,Hospitals,1
+,,lancaster,Ambulatory health care services,1
+,,inverness,Nursing and residential care facilities,1
+,,chapleau,Ambulatory health care services,2
+,,l'assomption,Nursing and residential care facilities,1
+,,foam lake,Ambulatory health care services,1
+,,millbrook 27,Nursing and residential care facilities,1
+,,caledon,Nursing and residential care facilities,3
+,,kipling,Nursing and residential care facilities,1
+,,sheshegwaning,Ambulatory health care services,1
+,,inukjuak,Ambulatory health care services,1
+,,mattawa,Hospitals,1
+,,la pocatière,Ambulatory health care services,1
+,,long sault,Nursing and residential care facilities,2
+,,salaberry-de-valleyfield,Nursing and residential care facilities,7
+,,picture butte,Hospitals,1
+,,valemount,Ambulatory health care services,2
+,,inkerman,Nursing and residential care facilities,1
+,,invermay,Nursing and residential care facilities,1
+,,low,Ambulatory health care services,1
+,,niagara falls,Ambulatory health care services,9
+,,kemptville,Nursing and residential care facilities,2
+,,lake country,Nursing and residential care facilities,2
+,,cherry valley,Nursing and residential care facilities,1
+,,waterloo,Ambulatory health care services,10
+,,casselman,Ambulatory health care services,1
+,,mundare,Hospitals,1
+,,temiskaming shores,Ambulatory health care services,6
+,,pohénégamook,Hospitals,1
+,,sarnia,Ambulatory health care services,10
+,,maniwaki,Ambulatory health care services,3
+,,lethbridge,Hospitals,2
+,,breslau,Ambulatory health care services,1
+,,saint-gabriel-de-brandon,Nursing and residential care facilities,1
+,,cornwall,Nursing and residential care facilities,14
+,,galahad,Nursing and residential care facilities,1
+,,grand manan,Hospitals,1
+,,fort steele,Nursing and residential care facilities,1
+,,attawapiskat,Hospitals,1
+,,canora,Nursing and residential care facilities,1
+,,notre-dame-du-bon-conseil,Nursing and residential care facilities,1
+,,picton,Hospitals,1
+,,rivière-ouelle,Hospitals,1
+,,saint-jérome,Nursing and residential care facilities,1
+,,lachine,Nursing and residential care facilities,1
+,,new carlisle,Nursing and residential care facilities,1
+,,montague,Hospitals,1
+,,pont-rouge,Nursing and residential care facilities,1
+,,longueuil,Hospitals,16
+,,kipling,Ambulatory health care services,3
+,,wakefield,Hospitals,1
+,,swift current,Nursing and residential care facilities,1
+,,garden river,Ambulatory health care services,2
+,,toronto,Hospitals,34
+,,spiritwood,Hospitals,2
+,,prince george,Ambulatory health care services,3
+,,port perry,Hospitals,1
+,,casselman,Hospitals,1
+,,courtenay,Ambulatory health care services,2
+,,l'islet,Ambulatory health care services,1
+,,new glasgow,Hospitals,1
+,,swift current,Hospitals,1
+,,métabetchouan--lac-à-la-croix,Ambulatory health care services,1
+,,green lake,Ambulatory health care services,1
+,,rockland,Ambulatory health care services,1
+,,assiniboia,Nursing and residential care facilities,2
+,,vermilion,Hospitals,1
+,,montréal,Nursing and residential care facilities,144
+,,sainte-anne-de-kent,Hospitals,1
+,,gore bay,Nursing and residential care facilities,1
+,,cochrane,Ambulatory health care services,4
+,,port coquitlam,Hospitals,1
+,,terrebonne,Nursing and residential care facilities,2
+,,contrecoeur,Ambulatory health care services,1
+,,saint-michel-des-saints,Nursing and residential care facilities,1
+,,carman,Hospitals,1
+,,lévis,Ambulatory health care services,8
+,,craik,Ambulatory health care services,1
+,,lacombe,Hospitals,1
+,,coaticook,Hospitals,1
+,,louiseville,Hospitals,1
+,,capreol,Ambulatory health care services,2
+,,sorel-tracy,Nursing and residential care facilities,6
+,,cochrane,Hospitals,2
+,,qualicum beach,Nursing and residential care facilities,3
+,,outlook,Hospitals,1
+,,ajax,Ambulatory health care services,2
+,,viking,Nursing and residential care facilities,1
+,,verchères,Ambulatory health care services,1
+,,sundridge,Nursing and residential care facilities,1
+,,sainte-julienne,Ambulatory health care services,1
+,,meadow lake,Nursing and residential care facilities,2
+,,new glasgow,Nursing and residential care facilities,3
+,,bancroft,Nursing and residential care facilities,2
+,,saint-élie-de-caxton,Ambulatory health care services,1
+,,ottawa,Ambulatory health care services,58
+,,port hawkesbury,Nursing and residential care facilities,1
+,,hamilton,Nursing and residential care facilities,59
+,,richards landing,Hospitals,1
+,,southampton,Hospitals,1
+,,sackville,Hospitals,2
+,,st marys,Hospitals,1
+,,middleton,Nursing and residential care facilities,1
+,,beloeil,Nursing and residential care facilities,3
+,,vernon,Nursing and residential care facilities,24
+,,gander,Nursing and residential care facilities,1
+,,campbellford,Nursing and residential care facilities,4
+,,fort simpson,Ambulatory health care services,1
+,,rivière-du-loup,Ambulatory health care services,3
+,,la loche,Hospitals,1
+,,bonavista,Nursing and residential care facilities,2
+,,saint-jacques,Nursing and residential care facilities,1
+,,port elgin,Nursing and residential care facilities,1
+,,bancroft,Ambulatory health care services,1
+,,huntingdon,Ambulatory health care services,1
+,,niagara-on-the-lake,Hospitals,1
+,,margate,Nursing and residential care facilities,1
+,,ste-anne,Hospitals,1
+,,powell river,Nursing and residential care facilities,13
+,,saint-maxime-du-mont-louis,Ambulatory health care services,1
+,,dixville,Ambulatory health care services,1
+,,north vancouver,Hospitals,1
+,,orangeville,Nursing and residential care facilities,7
+,,geraldton,Nursing and residential care facilities,1
+,,rosthern,Ambulatory health care services,1
+,,deseronto,Ambulatory health care services,1
+,,stony plain,Hospitals,1
+,,saint-fabien-de-panet,Ambulatory health care services,1
+,,napanee,Hospitals,1
+,,black diamond,Hospitals,1
+,,slate falls,Ambulatory health care services,1
+,,middle musquodoboit,Nursing and residential care facilities,1
+,,airdrie,Hospitals,1
+,,saint-gédéon-de-beauce,Ambulatory health care services,1
+,,kamloops,Ambulatory health care services,2
+,,britt,Ambulatory health care services,1
+,,keewaywin,Ambulatory health care services,1
+,,provost,Hospitals,1
+,,nipawin,Hospitals,2
+,,arthur,Ambulatory health care services,1
+,,courtenay,Hospitals,1
+,,teslin,Ambulatory health care services,1
+,,port moody,Hospitals,1
+,,welland,Nursing and residential care facilities,10
+,,summerside,Ambulatory health care services,3
+,,badgers quay,Hospitals,1
+,,ingersoll,Hospitals,1
+,,fox creek,Hospitals,1
+,,parkhill,Nursing and residential care facilities,1
+,,grand falls-windsor,Hospitals,1
+,,huberdeau,Nursing and residential care facilities,1
+,,wasagamack,Hospitals,1
+,,barrington,Nursing and residential care facilities,1
+,,marsoui,Ambulatory health care services,1
+,,ailsa craig,Ambulatory health care services,1
+,,gracefield,Ambulatory health care services,1
+,,moosonee,Hospitals,1
+,,mayerthorpe,Hospitals,1
+,,grande prairie,Hospitals,2
+,,marieville,Nursing and residential care facilities,1
+,,victoriaville,Nursing and residential care facilities,3
+,,prince albert,Hospitals,3
+,,arborg,Hospitals,1
+,,kincardine,Hospitals,1
+,,roddickton,Hospitals,1
+,,kenora,Nursing and residential care facilities,3
+,,granby,Ambulatory health care services,8
+,,ignace,Ambulatory health care services,1
+,,innisfail,Hospitals,1
+,,saugeen shores,Nursing and residential care facilities,1
+,,north bay,Hospitals,2
+,,adstock,Ambulatory health care services,1
+,,fort frances,Hospitals,1
+,,souris,Hospitals,2
+,,campbellford,Hospitals,1
+,,lamèque,Nursing and residential care facilities,1
+,,stony plain,Nursing and residential care facilities,1
+,,port alberni,Ambulatory health care services,1
+,,beauval,Ambulatory health care services,1
+,,vancouver,Hospitals,12
+,,shelburne,Ambulatory health care services,1
+,,st claude,Hospitals,1
+,,potton,Nursing and residential care facilities,1
+,,vegreville,Nursing and residential care facilities,1
+,,saint-jean-de-dieu,Ambulatory health care services,2
+,,maple ridge,Ambulatory health care services,2
+,,mill cove,Nursing and residential care facilities,1
+,,white rock,Nursing and residential care facilities,5
+,,twillingate,Hospitals,1
+,,wikwemikong,Nursing and residential care facilities,1
+,,fort william first nation,Ambulatory health care services,3
+,,kemptville,Hospitals,1
+,,sainte-foy,Hospitals,1
+,,saint-flavien,Ambulatory health care services,1
+,,elk point,Hospitals,1
+,,dartmouth,Hospitals,3
+,,brockville,Ambulatory health care services,8
+,,la sarre,Hospitals,1
+,,port alberni,Hospitals,1
+,,weyburn,Hospitals,4
+,,breton,Nursing and residential care facilities,1
+,,ottawa,Nursing and residential care facilities,111
+,,pawitik,Ambulatory health care services,2
+,,iqaluit,Hospitals,1
+,,portneuf,Ambulatory health care services,2
+,,assiniboia,Ambulatory health care services,1
+,,dorchester,Nursing and residential care facilities,1
+,,brampton,Nursing and residential care facilities,24
+,,rémigny,Ambulatory health care services,1
+,,sainte-thérèse,Nursing and residential care facilities,4
+,,canso,Hospitals,1
+,,rocky mountain house,Nursing and residential care facilities,1
+,,lamèque,Hospitals,1
+,,rosthern,Hospitals,1
+,,weedon,Nursing and residential care facilities,1
+,,burin,Ambulatory health care services,1
+,,saint-eustache,Hospitals,5
+,,geraldton,Ambulatory health care services,1
+,,beaconsfield,Nursing and residential care facilities,1
+,,berthier-sur-mer,Ambulatory health care services,1
+,,joliette,Ambulatory health care services,4
+,,kinistino,Ambulatory health care services,1
+,,oshawa,Hospitals,2
+,,smoky lake,Nursing and residential care facilities,1
+,,oakville,Nursing and residential care facilities,22
+,,yorkton,Nursing and residential care facilities,3
+,,mankota,Ambulatory health care services,1
+,,saint-pacôme,Nursing and residential care facilities,1
+,,prince rupert,Nursing and residential care facilities,1
+,,kyle,Ambulatory health care services,1
+,,belleville,Hospitals,1
+,,malartic,Nursing and residential care facilities,1
+,,chatham,Hospitals,1
+,,squamish,Hospitals,1
+,,northbrook,Ambulatory health care services,2
+,,saint-clément,Ambulatory health care services,1
+,,blainville,Ambulatory health care services,2
+,,powassan,Nursing and residential care facilities,1
+,,brampton,Hospitals,2
+,,bowmanville,Nursing and residential care facilities,4
+,,dauphin,Hospitals,1
+,,grenfell,Nursing and residential care facilities,1
+,,creston,Hospitals,1
+,,sainte-hénédine,Nursing and residential care facilities,1
+,,quesnel,Hospitals,1
+,,st. catharines,Ambulatory health care services,1
+,,alert bay,Hospitals,1
+,,ste rose du lac,Hospitals,1
+,,saint-apollinaire,Nursing and residential care facilities,1
+,,pinehouse,Ambulatory health care services,1
+,,swift current,Ambulatory health care services,1
+,,armstrong,Hospitals,1
+,,leader,Hospitals,2
+,,moffet,Ambulatory health care services,1
+,,quaqtaq,Ambulatory health care services,1
+,,saint-fabien-de-panet,Nursing and residential care facilities,1
+,,plessisville,Nursing and residential care facilities,3
+,,meadow lake,Ambulatory health care services,2
+,,saint-ubalde,Ambulatory health care services,1
+,,tisdale,Nursing and residential care facilities,2
+,,saint-raymond,Hospitals,1
+,,wynyard,Ambulatory health care services,1
+,,warwick,Nursing and residential care facilities,1
+,,weyakwin,Ambulatory health care services,1
+,,mont-laurier,Ambulatory health care services,3
+,,courtenay,Nursing and residential care facilities,8
+,,bridgetown north,Nursing and residential care facilities,1
+,,moonbeam,Nursing and residential care facilities,1
+,,minnedosa,Hospitals,1
+,,mossbank,Ambulatory health care services,1
+,,clarence-rockland,Nursing and residential care facilities,5
+,,coquitlam,Nursing and residential care facilities,25
+,,hope,Ambulatory health care services,1
+,,yorkton,Hospitals,2
+,,delta,Hospitals,1
+,,rivière-saint-jean,Ambulatory health care services,1
+,,prince rupert,Hospitals,1
+,,little current,Ambulatory health care services,2
+,,sylvan lake,Nursing and residential care facilities,1
+,,assiniboia,Hospitals,1
+,,lachute,Hospitals,2
+,,selkirk,Hospitals,1
+,,puvirnituq,Nursing and residential care facilities,1
+,,kincaid,Ambulatory health care services,1
+,,hagersville,Ambulatory health care services,2
+,,carlyle,Nursing and residential care facilities,1
+,,candiac,Ambulatory health care services,1
+,,tignish,Nursing and residential care facilities,1
+,,drummondville,Nursing and residential care facilities,3
+,,leduc,Nursing and residential care facilities,2
+,,saint-pierre-les-becquets,Nursing and residential care facilities,1
+,,uxbridge,Hospitals,1
+,,wiarton,Ambulatory health care services,1
+,,inukjuak,Nursing and residential care facilities,1
+,,roblin,Hospitals,1
+,,zurich,Nursing and residential care facilities,1
+,,winchester,Nursing and residential care facilities,1
+,,kincardine,Ambulatory health care services,1
+,,yarmouth,Nursing and residential care facilities,1
+,,rosthern,Nursing and residential care facilities,1
+,,bedford,Ambulatory health care services,1
+,,wadena,Hospitals,1
+,,exeter,Hospitals,1
+,,cobble hill,Ambulatory health care services,1
+,,minden,Hospitals,1
+,,barrhead,Hospitals,1
+,,granby,Nursing and residential care facilities,6
+,,saint-polycarpe,Ambulatory health care services,1
+,,nicolet,Ambulatory health care services,2
+,,lafleche,Nursing and residential care facilities,1
+,,burns lake,Nursing and residential care facilities,1
+,,wolfville,Nursing and residential care facilities,2
+,,sainte-anne-des-monts,Hospitals,1
+,,owen sound,Nursing and residential care facilities,11
+,,oliver,Nursing and residential care facilities,4
+,,memramcook,Nursing and residential care facilities,1
+,,saint-charles-borromée,Hospitals,2
+,,haliburton,Ambulatory health care services,3
+,,beaupré,Hospitals,1
+,,destruction bay,Ambulatory health care services,1
+,,surrey,Hospitals,2
+,,okotoks,Hospitals,1
+,,rivière-rouge,Ambulatory health care services,1
+,,claresholm,Nursing and residential care facilities,1
+,,st. andrews,Nursing and residential care facilities,1
+,,quinte west,Nursing and residential care facilities,4
+,,hazelton,Hospitals,1
+,,williamsburg,Ambulatory health care services,2
+,,midland,Nursing and residential care facilities,5
+,,whitehorse,nursing and residential care facilities,2
+,,niagara-on-the-lake,Nursing and residential care facilities,3
+,,eldon,Nursing and residential care facilities,1
+,,saint marys,Nursing and residential care facilities,2
+,,ajax,Hospitals,1
+,,canso,Nursing and residential care facilities,1
+,,nobel,Ambulatory health care services,1
+,,londesborough,Nursing and residential care facilities,1
+,,campbell river,Hospitals,1
+,,sutton,Nursing and residential care facilities,1
+,,schreiber,Ambulatory health care services,2
+,,whitehose,Nursing and residential care facilities,1
+,,weedon,Ambulatory health care services,1
+,,havre-saint-pierre,Hospitals,1
+,,schefferville,Ambulatory health care services,1
+,,wawa,Hospitals,1
+,,vaudreuil-dorion,Ambulatory health care services,2
+,,mansfield-et-pontefract,Ambulatory health care services,1
+,,camrose,Hospitals,1
+,,leoville,Nursing and residential care facilities,1
+,,plantagenet,Nursing and residential care facilities,1
+,,mahone bay,Nursing and residential care facilities,1
+,,alma,Ambulatory health care services,5
+,,lac-brome,Ambulatory health care services,1
+,,kitchener,Hospitals,2
+,,lakefield,Nursing and residential care facilities,1
+,,wolseley,Hospitals,1
+,,amos,Hospitals,3
+,,lunenburg,Nursing and residential care facilities,1
+,,wiarton,Hospitals,1
+,,chapais,Hospitals,1
+,,leaf rapids,Hospitals,1
+,,markham,Nursing and residential care facilities,11
+,,cambridge bay,Hospitals,1
+,,golden lake,Ambulatory health care services,2
+,,new tecumseth,Nursing and residential care facilities,4
+,,rapides-des-joachims,Ambulatory health care services,1
+,,southwold,Ambulatory health care services,1
+,,brantford,Hospitals,1
+,,canora,Hospitals,1
+,,ormstown,Nursing and residential care facilities,1
+,,ross river,Ambulatory health care services,1
+,,parry sound,Ambulatory health care services,3
+,,sudbury,Nursing and residential care facilities,16
+,,wingham,Hospitals,1
+,,smiths falls,Ambulatory health care services,1
+,,grand-sault,Nursing and residential care facilities,1
+,,tatamagouche,Nursing and residential care facilities,1
+,,grimsby,Nursing and residential care facilities,5
+,,waterloo,Nursing and residential care facilities,13
+,,campbell river,Ambulatory health care services,5
+,,saint-constant,Nursing and residential care facilities,1
+,,uxbridge,Nursing and residential care facilities,3
+,,spiritwood,Ambulatory health care services,2
+,,sainte-anne-de-la-pérade,Nursing and residential care facilities,1
+,,stanstead,Ambulatory health care services,1
+,,maryhill,Nursing and residential care facilities,2
+,,oleary,Ambulatory health care services,1
+,,fogo,Hospitals,1
+,,henryville,Ambulatory health care services,2
+,,creighton,Ambulatory health care services,1
+,,parry sound,Nursing and residential care facilities,3
+,,cedar point,Ambulatory health care services,1
+,,vernon,Hospitals,1
+,,matane,Ambulatory health care services,2
+,,bath,Nursing and residential care facilities,1
+,,west elgin,Ambulatory health care services,1
+,,sainte-agathe-des-monts,Nursing and residential care facilities,2
+,,strasbourg,Nursing and residential care facilities,1
+,,canwood,Nursing and residential care facilities,1
+,,winkler,Hospitals,1
+,,oxbow,Nursing and residential care facilities,1
+,,matapédia,Ambulatory health care services,2
+,,fort nelson,Hospitals,1
+,,norwood,Nursing and residential care facilities,2
+,,revelstoke,Hospitals,1
+,,kawawachikamach,Ambulatory health care services,1
+,,baker brook,Nursing and residential care facilities,1
+,,sussex,Nursing and residential care facilities,1
+,,caplan,Ambulatory health care services,1
+,,lumby,Nursing and residential care facilities,2
+,,tecumseh,Nursing and residential care facilities,2
+,,warkworth,Nursing and residential care facilities,1
+,,dieppe,Nursing and residential care facilities,10
+,,saint-augustin,Ambulatory health care services,1
+,,st thomas,Hospitals,1
+,,delhi,Ambulatory health care services,1
+,,ivujivik,Ambulatory health care services,1
+,,manitowaning,Ambulatory health care services,1
+,,clearwater,Nursing and residential care facilities,1
+,,corbeil,Nursing and residential care facilities,1
+,,donnacona,Nursing and residential care facilities,1
+,,saint-siméon,Ambulatory health care services,2
+,,beaverbank,Nursing and residential care facilities,1
+,,virden,Hospitals,1
+,,strathmore,Nursing and residential care facilities,1
+,,saint-anselme,Ambulatory health care services,1
+,,riverview,Ambulatory health care services,1
+,,coaldale,Hospitals,1
+,,cutler,Ambulatory health care services,2
+,,perth-andover,Hospitals,1
+,,middle lake,Nursing and residential care facilities,1
+,,s thompson,Hospitals,1
+,,castlegar,Nursing and residential care facilities,8
+,,rimbey,Hospitals,1
+,,kindersley,Hospitals,1
+,,lundar,Ambulatory health care services,1
+,,cannington,Nursing and residential care facilities,1
+,,sacré-coeur,Ambulatory health care services,1
+,,boucherville,Ambulatory health care services,2
+,,watrous,Nursing and residential care facilities,1
+,,amherst,Nursing and residential care facilities,5
+,,vanier,Nursing and residential care facilities,1
+,,smithers,Hospitals,1
+,,greater napanee,Nursing and residential care facilities,2
+,,melville,Nursing and residential care facilities,1
+,,trois-rivières,Ambulatory health care services,14
+,,mashteuiatsh,Nursing and residential care facilities,1
+,,sept-îles,Hospitals,3
+,,mindemoya,Hospitals,1
+,,maryfield,Ambulatory health care services,1
+,,labrador city,Hospitals,1
+,,saint-hyacinthe,Hospitals,3
+,,gaultois,Ambulatory health care services,1
+,,markdale,Hospitals,1
+,,lakefield,Ambulatory health care services,1
+,,durham,Hospitals,1
+,,fordwich,Nursing and residential care facilities,1
+,,miscouche,Nursing and residential care facilities,1
+,,matane,Nursing and residential care facilities,2
+,,st peters,Nursing and residential care facilities,1
+,,biggar,Nursing and residential care facilities,1
+,,georgina,Nursing and residential care facilities,2
+,,port perry,Nursing and residential care facilities,3
+,,penticton,Ambulatory health care services,2
+,,wemindji,Ambulatory health care services,2
+,,dunnville,Nursing and residential care facilities,4
+,,niagara falls,Nursing and residential care facilities,14
+,,englehart,Ambulatory health care services,1
+,,vegreville,Hospitals,1
+,,bow island,Hospitals,1
+,,sherbrooke,Nursing and residential care facilities,10
+,,warman,Nursing and residential care facilities,1
+,,lac la biche,Hospitals,1
+,,springhill,Nursing and residential care facilities,1
+,,little grand rapids,Hospitals,1
+,,raymore,Nursing and residential care facilities,1
+,,saint-philippe,Nursing and residential care facilities,1
+,,parrsboro,Hospitals,1
+,,nemaska,Ambulatory health care services,2
+,,ponteix,Ambulatory health care services,1
+,,kuujjuarapik,Nursing and residential care facilities,1
+,,baie-saint-paul,Ambulatory health care services,3
+,,lillooet,Hospitals,1
+,,chatham-kent,Ambulatory health care services,11
+,,southampton,Ambulatory health care services,1
+,,stratford,Hospitals,1
+,,opasatika,Nursing and residential care facilities,1
+,,trail,Hospitals,1
+,,shédiac,Nursing and residential care facilities,1
+,,arthur,Nursing and residential care facilities,1
+,,la malbaie,Nursing and residential care facilities,2
+,,sicamous,Ambulatory health care services,1
+,,montréal-ouest,Nursing and residential care facilities,1
+,,cheticamp,Hospitals,1
+,,edmonton,Nursing and residential care facilities,23
+,,debden,Ambulatory health care services,1
+,,lascie,Ambulatory health care services,1
+,,saint-donat,Ambulatory health care services,1
+,,holland centre,Ambulatory health care services,1
+,,swan river,Hospitals,1
+,,rochebaucourt,Ambulatory health care services,1
+,,red lake,Nursing and residential care facilities,1
+,,riverside albert,Nursing and residential care facilities,1
+,,hagersville,Nursing and residential care facilities,2
+,,carmangay,Nursing and residential care facilities,1
+,,new liskeard,Hospitals,1
+,,moose jaw,Hospitals,2
+,,musquodoboit harbour,Hospitals,1
+,,cleveland,Nursing and residential care facilities,1
+,,grosse-île,Ambulatory health care services,1
+,,st brendans,Ambulatory health care services,1
+,,yorkton,Ambulatory health care services,3
+,,edward,Nursing and residential care facilities,6
+,,port colborne,Ambulatory health care services,1
+,,lions head,Ambulatory health care services,1
+,,harbour breton,Hospitals,1
+,,wawanesa,Hospitals,1
+,,sechelt,Nursing and residential care facilities,7
+,,antgonish,Nursing and residential care facilities,1
+,,whistler,Ambulatory health care services,3
+,,nokomis,Nursing and residential care facilities,1
+,,lorignal,Nursing and residential care facilities,1
+,,bala,Ambulatory health care services,1
+,,daysland,Hospitals,1
+,,salt spring island,Hospitals,1
+,,pointe-claire,Hospitals,1
+,,maidstone,Hospitals,1
+,,west nipissing,Nursing and residential care facilities,1
+,,red deer,Hospitals,2
+,,saint-jean-sur-richelieu,Hospitals,7
+,,kamsack,Hospitals,1
+,,advocate harbour,Nursing and residential care facilities,2
+,,erin,Ambulatory health care services,2
+,,caraquet,Hospitals,1
+,,paris,Nursing and residential care facilities,1
+,,digby,Hospitals,1
+,,fredericton,Nursing and residential care facilities,4
+,,lumsden,Nursing and residential care facilities,1
+,,hanover,Hospitals,1
+,,saint-eustache,Ambulatory health care services,4
+,,st catharines,Ambulatory health care services,14
+,,corner brook,Hospitals,1
+,,wakaw,Hospitals,1
+,,orangeville,Hospitals,1
+,,baie-saint-paul,Nursing and residential care facilities,1
+,,pitt meadows,Nursing and residential care facilities,2
+,,havre-saint-pierre,Nursing and residential care facilities,1
+,,moose factory,Hospitals,2
+,,crapaud,Ambulatory health care services,1
+,,prévost,Nursing and residential care facilities,3
+,,burlington,Ambulatory health care services,7
+,,shippagan,Nursing and residential care facilities,1
+,,grande cache,Hospitals,1
+,,lethbridge,Nursing and residential care facilities,1
+,,seaforth,Hospitals,1
+,,rivière-du-loup,Nursing and residential care facilities,3
+,,carmacks,Ambulatory health care services,1
+,,asbestos,Nursing and residential care facilities,1
+,,fergus,Nursing and residential care facilities,3
+,,davidson,Hospitals,1
+,,fernie,Hospitals,1
+,,sainte-croix,Nursing and residential care facilities,1
+,,témiscouata-sur-le-lac,Hospitals,1
+,,chambly,Nursing and residential care facilities,3
+,,la prairie,Nursing and residential care facilities,1
+,,altona,Hospitals,1
+,,saint-quentin,Nursing and residential care facilities,1
+,,carlyle,Ambulatory health care services,2
+,,cap-chat,Ambulatory health care services,2
+,,coronation,Hospitals,1
+,,côte-saint-luc,Ambulatory health care services,1
+,,hearst,Hospitals,1
+,,saint-joseph-de-beauce,Nursing and residential care facilities,1
+,,kapuskasing,Nursing and residential care facilities,2
+,,herbert,Hospitals,1
+,,the glades,Nursing and residential care facilities,1
+,,sault ste marie,Hospitals,2
+,,gatineau,Nursing and residential care facilities,14
+,,lamont,Hospitals,1
+,,miramichi,Hospitals,1
+,,kirkland,Ambulatory health care services,3
+,,loon lake,Hospitals,1
+,,fortierville,Hospitals,1
+,,marathon,Ambulatory health care services,1
+,,cobourg,Hospitals,1
+,,thunder bay,Nursing and residential care facilities,18
+,,kuujjuaq,Nursing and residential care facilities,1
+,,la baie,Hospitals,1
+,,berthierville,Ambulatory health care services,2
+,,potton,Ambulatory health care services,2
+,,hampton,Nursing and residential care facilities,2
+,,north bay,Nursing and residential care facilities,7
+,,ham-nord,Nursing and residential care facilities,1
+,,la sarre,Nursing and residential care facilities,1
+,,saint léonard,Nursing and residential care facilities,1
+,,brandon,Hospitals,1
+,,beaver creek,Ambulatory health care services,1
+,,listowel,Hospitals,1
+,,barss corner,Nursing and residential care facilities,1
+,,limoges,Nursing and residential care facilities,1
+,,stephenville crossing,Nursing and residential care facilities,1
+,,armstrong,Nursing and residential care facilities,3
+,,st brieux,Ambulatory health care services,1
+,,north vancouver,Ambulatory health care services,6
+,,buffalo narrows,Ambulatory health care services,1
+,,roberval,Hospitals,1
+,,cupar,Nursing and residential care facilities,1
+,,bruce mines,Nursing and residential care facilities,1
+,,merritt,Hospitals,1
+,,arnprior,Hospitals,1
+,,westbank,Nursing and residential care facilities,2
+,,amherstview,Ambulatory health care services,1
+,,maple creek,Ambulatory health care services,1
+,,kingston,Nursing and residential care facilities,14
+,,bonavista,Hospitals,1
+,,berwick,Ambulatory health care services,1
+,,markham,Ambulatory health care services,9
+,,saint-paulin,Ambulatory health care services,1
+,,timmins,Hospitals,1
+,,truro,Hospitals,1
+,,calgary,Nursing and residential care facilities,37
+,,coteau-du-lac,Nursing and residential care facilities,2
+,,alexandria,Nursing and residential care facilities,2
+,,halton hills,Ambulatory health care services,3
+,,shelburne,Nursing and residential care facilities,4
+,,sooke,Nursing and residential care facilities,2
+,,kinistino,Nursing and residential care facilities,1
+,,radway,Nursing and residential care facilities,1
+,,wellington,Nursing and residential care facilities,1
+,,arichat,Nursing and residential care facilities,1
+,,ormstown,Hospitals,2
+,,saint-bruno-de-montarville,Ambulatory health care services,1
+,,lincoln,Nursing and residential care facilities,4
+,,yarmouth,Hospitals,1
+,,meaford,Nursing and residential care facilities,1
+,,cowansville,Nursing and residential care facilities,1
+,,alliston,Hospitals,1
+,,wabasca,Ambulatory health care services,1
+,,alma,Hospitals,3
+,,medicine hat,Ambulatory health care services,2
+,,stratford,Ambulatory health care services,11
+,,vanderhoof,Ambulatory health care services,1
+,,belleville,Nursing and residential care facilities,11
+,,dayton,Nursing and residential care facilities,1
+,,keewatin,Ambulatory health care services,1
+,,clermont,Nursing and residential care facilities,1
+,,sept-îles,Nursing and residential care facilities,2
+,,listowel,Ambulatory health care services,2
+,,côte-saint-luc,Nursing and residential care facilities,3
+,,tweed,Nursing and residential care facilities,1
+,,madoc,Ambulatory health care services,3
+,,shawnigan lake,Nursing and residential care facilities,1
+,,notre-dame-du-laus,Ambulatory health care services,1
+,,north sydney,Hospitals,1
+,,greenfield,Nursing and residential care facilities,1
+,,palmerston,Nursing and residential care facilities,1
+,,tisdale,Hospitals,1
+,,vaughan,Nursing and residential care facilities,18
+,,toronto,Ambulatory health care services,151
+,,leduc,Hospitals,1
+,,val-des-monts,Ambulatory health care services,1
+,,lanoraie,Nursing and residential care facilities,1
+,,gravenhurst,Nursing and residential care facilities,3
+,,redwater,Hospitals,1
+,,edson,Hospitals,1
+,,morrisburg,Nursing and residential care facilities,1
+,,stratford,Nursing and residential care facilities,9
+,,shaunavon,Hospitals,1
+,,cut knife,Ambulatory health care services,1
+,,langley city,Nursing and residential care facilities,4
+,,pierreville,Nursing and residential care facilities,1
+,,lanigan,Nursing and residential care facilities,1
+,,port coquitlam,Nursing and residential care facilities,11
+,,mayerthorpe,Nursing and residential care facilities,1
+,,springdale,Nursing and residential care facilities,1
+,,morell,Ambulatory health care services,1
+,,goderich,Nursing and residential care facilities,4
+,,saint-pascal,Ambulatory health care services,2
+,,brigham,Ambulatory health care services,1
+,,kangirsuk,Ambulatory health care services,1
+,,huntsville,Ambulatory health care services,2
+,,bonaventure,Nursing and residential care facilities,2
+,,newmarket,Nursing and residential care facilities,9
+,,saint-basile,Ambulatory health care services,1
+,,ripley,Nursing and residential care facilities,1
+,,matheson,Hospitals,1
+,,nanaimo,Ambulatory health care services,4
+,,englehart,Nursing and residential care facilities,1
+,,golden,Nursing and residential care facilities,1
+,,cumberland house,Nursing and residential care facilities,2
+,,causapscal,Ambulatory health care services,1
+,,amos,Ambulatory health care services,3
+,,peace river,Hospitals,1
+,,strathroy,Nursing and residential care facilities,3
+,,norwich,Nursing and residential care facilities,2
+,,naughton,Ambulatory health care services,1
+,,beaverton,Ambulatory health care services,1
+,,disraeli,Nursing and residential care facilities,1
+,,noã«lville,Nursing and residential care facilities,1
+,,summerside,Hospitals,1
+,,belleterre,Ambulatory health care services,1
+,,richards landing,Ambulatory health care services,1
+,,saint-antoine,Nursing and residential care facilities,1
+,,brighton,Ambulatory health care services,1
+,,midland,Hospitals,1
+,,sault ste marie,Ambulatory health care services,10
+,,elmira,Ambulatory health care services,1
+,,markham,Hospitals,1
+,,shawville,Nursing and residential care facilities,1
+,,edmonton,Ambulatory health care services,18
+,,matagami,Hospitals,1
+,,prince albert,Ambulatory health care services,8
+,,grand falls-windsor,Ambulatory health care services,1
+,,manitouwadge,Hospitals,1
+,,alberton,Nursing and residential care facilities,2
+,,rexton,Nursing and residential care facilities,1
+,,westmount,Ambulatory health care services,1
+,,grimshaw,Hospitals,1
+,,baddeck,Nursing and residential care facilities,1
+,,banff,Hospitals,1
+,,saint-raymond,Nursing and residential care facilities,2
+,,bathurst,Nursing and residential care facilities,2
+,,carnduff,Ambulatory health care services,1
+,,upsala,Ambulatory health care services,2
+,,whitehorse,Nursing and residential care facilities,2
+,,maria,Nursing and residential care facilities,1
+,,saint-michel-de-bellechasse,Nursing and residential care facilities,1
+,,peawanuck,Hospitals,1
+,,exeter,Nursing and residential care facilities,1
+,,mont-joli,Ambulatory health care services,4
+,,north battleford,Hospitals,4
+,,wainwright,Hospitals,1
+,,west nipissing,Ambulatory health care services,2
+,,walkerton,Hospitals,1
+,,harcourt,Nursing and residential care facilities,1
+,,kensington,Nursing and residential care facilities,1
+,,stayner,Nursing and residential care facilities,3
+,,clarenville,Nursing and residential care facilities,2
+,,saint-pierre-de-l'île-d'orléans,Nursing and residential care facilities,1
+,,l'ancienne-lorette,Nursing and residential care facilities,1
+,,richmond hill,Nursing and residential care facilities,10
+,,espanola,Ambulatory health care services,1
+,,aylmer,Nursing and residential care facilities,3
+,,slave lake,Ambulatory health care services,1
+,,clarence-rockland,Ambulatory health care services,1
+,,tofield,Hospitals,1
+,,lockeport,Nursing and residential care facilities,1
+,,saint-gervais,Nursing and residential care facilities,1
+,,val-d'or,Ambulatory health care services,3
+,,terrebonne,Hospitals,2
+,,sainte-thècle,Nursing and residential care facilities,1
+,,willow bunch,Ambulatory health care services,1
+,,gainsborough,Nursing and residential care facilities,1
+,,oshawa,Nursing and residential care facilities,12
+,,cornwall,Hospitals,2
+,,kingsville,Nursing and residential care facilities,4
+,,dollard-des ormeaux,Nursing and residential care facilities,1
+,,camrose,Nursing and residential care facilities,3
+,,fort erie,Nursing and residential care facilities,6
+,,milton,Nursing and residential care facilities,4
+,,barrhead,Nursing and residential care facilities,1
+,,simcoe,Hospitals,1
+,,summerland,Ambulatory health care services,2
+,,waskaganish,Ambulatory health care services,2
+,,chetwynd,Hospitals,1
+,,sainte-sophie,Nursing and residential care facilities,1
+,,lévis,Nursing and residential care facilities,8
+,,fort smith,Hospitals,1
+,,marathon,Hospitals,1
+,,ingersoll,Ambulatory health care services,3
+,,st albert,Hospitals,1
+,,clyde river,Nursing and residential care facilities,1
+,,saint-cyprien,Ambulatory health care services,1
+,,stanley,Nursing and residential care facilities,1
+,,cowansville,Ambulatory health care services,3
+,,radville,Hospitals,1
+,,sidney,Nursing and residential care facilities,6
+,,pine falls,Hospitals,1
+,,lethbridge,Ambulatory health care services,2
+,,petrolia,Ambulatory health care services,1
+,,montague,Ambulatory health care services,2
+,,white rock,Hospitals,1
+,,lyster,Nursing and residential care facilities,1
+,,pickering,Nursing and residential care facilities,6
+,,deux-montagnes,Nursing and residential care facilities,2
+,,aylmer,Ambulatory health care services,1
+,,rosemère,Nursing and residential care facilities,1
+,,summerford,Ambulatory health care services,1
+,,east angus,Nursing and residential care facilities,1
+,,cobble hill,Nursing and residential care facilities,2
+,,pembroke,Ambulatory health care services,4
+,,saint-basile-le-grand,Nursing and residential care facilities,1
+,,ham-nord,Ambulatory health care services,1
+,,saint-antonin,Hospitals,1
+,,duncan,Ambulatory health care services,2
+,,fort saskatchewan,Nursing and residential care facilities,1
+,,cambridge,Hospitals,1
+,,notre-dame-des-sept-douleurs,Ambulatory health care services,1
+,,sherbrooke,Hospitals,9
+,,vanguard,Ambulatory health care services,1
+,,wawota,Hospitals,1
+,,goderich,Hospitals,2
+,,seabright,Nursing and residential care facilities,1
+,,ville-marie,Nursing and residential care facilities,2
+,,beausejour,Hospitals,1
+,,magog,Ambulatory health care services,1
+,,comox,Nursing and residential care facilities,2
+,,whitehorse,Ambulatory health care services,11
+,,antigonish,Nursing and residential care facilities,2
+,,l'isle-aux-allumettes,Ambulatory health care services,1
+,,alberton,Hospitals,2
+,,holland landing,Ambulatory health care services,1
+,,disraeli,Ambulatory health care services,1
+,,saint-jude,Ambulatory health care services,1
+,,aurora,Ambulatory health care services,3
+,,québec,Ambulatory health care services,40
+,,port stanley,Nursing and residential care facilities,1
+,,dalles,Ambulatory health care services,1
+,,lefaivre,Nursing and residential care facilities,1
+,,theodore,Nursing and residential care facilities,1
+,,st stephen,Hospitals,1
+,,ajax,Nursing and residential care facilities,4
+,,la tuque,Nursing and residential care facilities,3
+,,notre-dame-de-lourdes,Hospitals,1
+,,southey,Ambulatory health care services,1
+,,new tecumseth,Ambulatory health care services,1
+,,puvirnituq,Hospitals,1
+,,montréal,Hospitals,93
+,,tasiujaq,Ambulatory health care services,1
+,,pembroke,Hospitals,1
+,,saint-marc-des-carrières,Nursing and residential care facilities,1
+,,mirabel,Nursing and residential care facilities,1
+,,ohsweken,Ambulatory health care services,1
+,,moosomin,Hospitals,1
+,,birch hills,Ambulatory health care services,1
+,,saint-jean-de-matha,Ambulatory health care services,1
+,,norway house,Hospitals,1
+,,minden,Nursing and residential care facilities,1
+,,la patrie,Ambulatory health care services,1
+,,kawartha lakes,Ambulatory health care services,2
+,,new westminster,Nursing and residential care facilities,10
+,,chatsworth,Nursing and residential care facilities,1
+,,ottawa,Hospitals,10
+,,st paul,Nursing and residential care facilities,1
+,,melfort,Nursing and residential care facilities,1
+,,baie-sainte-catherine,Ambulatory health care services,1
+,,athabasca,Nursing and residential care facilities,1
+,,thornhill,Hospitals,1
+,,repentigny,Ambulatory health care services,5
+,,surrey,Nursing and residential care facilities,66
+,,st johns,Hospitals,4
+,,gravenhurst,Ambulatory health care services,1
+,,normandin,Ambulatory health care services,1
+,,rosemère,Ambulatory health care services,2
+,,lambton shores,Ambulatory health care services,2
+,,petawawa,Ambulatory health care services,2
+,,dieppe,Ambulatory health care services,2
+,,regina beach,Ambulatory health care services,1
+,,lillooet,Nursing and residential care facilities,1
+,,wynyard,Nursing and residential care facilities,1
+,,rocky mountain house,Hospitals,1
+,,portland,Ambulatory health care services,1
+,,sydney mines,Hospitals,1
+,,birch island,Ambulatory health care services,1
+,,grand falls/grand-sault,Hospitals,1
+,,old perlican,Hospitals,1
+,,turtleford,Hospitals,1
+,,mitchell,Nursing and residential care facilities,2
+,,grande-vallée,Hospitals,1
+,,listuguj,Nursing and residential care facilities,1
+,,eatonia,Ambulatory health care services,1
+,,victoriaville,Hospitals,1
+,,barrys bay,Ambulatory health care services,1
+,,pitt meadows,Ambulatory health care services,2
+,,saint-antoine-de-l'isle-aux-grues,Ambulatory health care services,1
+,,minto,Nursing and residential care facilities,3
+,,rosetown,Hospitals,2
+,,cornwall,Ambulatory health care services,6
+,,amherst,Hospitals,1
+,,glovertown,Ambulatory health care services,1
+,,la tuque,Hospitals,1
+,,whitby,Hospitals,2
+,,trochu,Hospitals,1
+,,rankin inlet,Hospitals,1
+,,durham,Nursing and residential care facilities,2
+,,saint-joseph-de-beauce,Ambulatory health care services,1
+,,old crow,Ambulatory health care services,1
+,,uashat,Nursing and residential care facilities,2
+,,caraquet,Nursing and residential care facilities,1
+,,embrun,Nursing and residential care facilities,2
+,,fort albany,Hospitals,1
+,,berthierville,Nursing and residential care facilities,1
+,,longue-pointe-de-mingan,Ambulatory health care services,1
+,,campbellford,Ambulatory health care services,1
+,,richmond hill,Ambulatory health care services,4
+,,hinton,Hospitals,1
+,,thessalon,Nursing and residential care facilities,1
+,,bradford west gwillimbury,Nursing and residential care facilities,2
+,,fort langley,Nursing and residential care facilities,1
+,,chibougamau,Nursing and residential care facilities,2
+,,baie-comeau,Hospitals,3
+,,waglisla,Hospitals,1
+,,oxbow,Ambulatory health care services,1
+,,pointe-claire,Ambulatory health care services,5
+,,castor,Hospitals,1
+,,milk river,Hospitals,1
+,,baie-johan-beetz,Ambulatory health care services,1
+,,palmarolle,Nursing and residential care facilities,1
+,,ashcroft,Nursing and residential care facilities,1
+,,kipling,Hospitals,2
+,,st thomas,Nursing and residential care facilities,1
+,,manitou,Hospitals,1
+,,bible hill,Nursing and residential care facilities,2
+,,pelham,Nursing and residential care facilities,2
+,,lambton,Ambulatory health care services,1
+,,la malbaie,Hospitals,1
+,,kelowna,Hospitals,1
+,,inverness,Hospitals,1
+,,faro,Ambulatory health care services,1
+,,tabusintac,Nursing and residential care facilities,1
+,,cambridge,Nursing and residential care facilities,14
+,,deux-montagnes,Ambulatory health care services,1
+,,thetford mines,Nursing and residential care facilities,4
+,,plantagenet,Ambulatory health care services,1
+,,east broughton,Ambulatory health care services,1
+,,deep river,Hospitals,1
+,,lower west pubnico,Nursing and residential care facilities,1
+,,abbotsford,Ambulatory health care services,7
+,,bella coola,Ambulatory health care services,1
+,,devon,Hospitals,1
+,,hanover,Nursing and residential care facilities,4
+,,gander,Hospitals,1
+,,eriksdale,Hospitals,1
+,,la crete,Nursing and residential care facilities,1
+,,renfrew,Ambulatory health care services,3
+,,carleton place,Nursing and residential care facilities,5
+,,ponoka,Nursing and residential care facilities,1
+,,acton vale,Nursing and residential care facilities,1
+,,parry sound,Hospitals,1
+,,emerson,Nursing and residential care facilities,1
+,,arborfield,Ambulatory health care services,1
+,,welland,Ambulatory health care services,8
+,,newmarket,Ambulatory health care services,9
+,,st anthony,Nursing and residential care facilities,1
+,,hope,Hospitals,1
+,,les bergeronnes,Nursing and residential care facilities,1
+,,leask,Nursing and residential care facilities,1
+,,fort erie,Ambulatory health care services,1
+,,renfrew,Hospitals,1
+,,saint-tite,Ambulatory health care services,2
+,,burlington,Hospitals,1
+,,taber,Hospitals,1
+,,bonne-espérance,Ambulatory health care services,1
+,,port alice,Hospitals,1
+,,o'leary,Hospitals,1
+,,alexandria,Ambulatory health care services,1
+,,climax,Ambulatory health care services,1
+,,nipigon,Hospitals,1
+,,hamilton,Ambulatory health care services,46
+,,dominion,Nursing and residential care facilities,1
+,,quispamsis,Nursing and residential care facilities,2
+,,rimouski,Hospitals,3
+,,bella bella,Ambulatory health care services,1
+,,wynyard,Hospitals,1
+,,penticton,Hospitals,1
+,,kelvington,Hospitals,1
+,,osoyoos,Nursing and residential care facilities,2
+,,valcourt,Ambulatory health care services,1
+,,langley,Hospitals,1
+,,simcoe,Ambulatory health care services,5
+,,noelville,Ambulatory health care services,1
+,,st theresa point,Hospitals,1
+,,dawson city,Nursing and residential care facilities,1
+,,black's harbour,Nursing and residential care facilities,1
+,,saint-amable,Ambulatory health care services,1
+,,wallaceburg,Hospitals,1
+,,paquetville,Nursing and residential care facilities,1
+,,north saanich,Nursing and residential care facilities,6
+,,springhill,Hospitals,1
+,,woodstock,Hospitals,1
+,,wickham,Ambulatory health care services,1
+,,sioux lookout,Hospitals,2
+,,100 mile house,Ambulatory health care services,2
+,,hawkesbury,Hospitals,1
+,,temiskaming shores,Nursing and residential care facilities,4
+,,drummondville,Ambulatory health care services,5
+,,la malbaie,Ambulatory health care services,2
+,,prince george,Hospitals,1
+,,charlottetown,Nursing and residential care facilities,25
+,,emo,Hospitals,1
+,,kenora,Hospitals,1
+,,blairmore,Hospitals,1
+,,nelson,Hospitals,1
+,,weyburn,Ambulatory health care services,3
+,,ponteix,Nursing and residential care facilities,2
+,,portage la prairie,Hospitals,1
+,,port perry,Ambulatory health care services,2
+,,kitchener,Ambulatory health care services,12
+,,regina,Hospitals,3
+,,springdale,Hospitals,1
+,,tracadie-sheila,Nursing and residential care facilities,1
+,,norquay,Ambulatory health care services,1
+,,gallichan,Ambulatory health care services,1
+,,hearst,Nursing and residential care facilities,1
+,,saint-michel-du-squatec,Nursing and residential care facilities,1
+,,langenburg,Nursing and residential care facilities,1
+,,st lawrence,Hospitals,1
+,,trois-pistoles,Nursing and residential care facilities,1
+,,preissac,Ambulatory health care services,1
+,,nipigon,Ambulatory health care services,1
+,,port colborne,Nursing and residential care facilities,2
+,,mclennan,Hospitals,1
+,,duncan,Hospitals,1
+,,brooks,Hospitals,1
+,,duncan,Nursing and residential care facilities,17
+,,saint-georges,Hospitals,2
+,,uashat,Ambulatory health care services,1
+,,gros-mécatina,Ambulatory health care services,2
+,,watson lake,Hospitals,1
+,,oromocto,Hospitals,1
+,,saint john,Hospitals,4
+,,kapuskasing,Hospitals,1
+,,côte-nord-du-golfe-du-saint-laurent,Ambulatory health care services,4
+,,woodstock,Ambulatory health care services,4
+,,annapolis royal,Hospitals,1
+,,souris,Ambulatory health care services,2
+,,french river,Ambulatory health care services,1
+,,kenora,Ambulatory health care services,11
+,,high river,Hospitals,1
+,,rossburn,Hospitals,1
+,,london,Nursing and residential care facilities,39
+,,delta,Ambulatory health care services,3
+,,saint-guillaume,Ambulatory health care services,1
+,,saint-félicien,Ambulatory health care services,2
+,,shawinigan,Nursing and residential care facilities,3
+,,amherstburg,Ambulatory health care services,2
+,,powassan,Ambulatory health care services,2
+,,fairview,Hospitals,1
+,,brant,Nursing and residential care facilities,5
+,,lloydminster,Ambulatory health care services,1
+,,rimouski,Nursing and residential care facilities,3
+,,saint-flavien,Nursing and residential care facilities,1
+,,elliot lake,Ambulatory health care services,3
+,,lincoln,Ambulatory health care services,1
+,,pangman,Ambulatory health care services,1
+,,salt spring island,Nursing and residential care facilities,2
+,,unity,Hospitals,2
+,,devlin,Ambulatory health care services,1
+,,saint-augustin-de-desmaures,Nursing and residential care facilities,2
+,,saint-georges,Nursing and residential care facilities,3
+,,pakenham,Nursing and residential care facilities,1
+,,liverpool,Nursing and residential care facilities,1
+,,pont-rouge,Ambulatory health care services,1
+,,saint-hubert,Nursing and residential care facilities,1
+,,lindsay,Ambulatory health care services,1
+,,brantford,Nursing and residential care facilities,14
+,,kemptville,Ambulatory health care services,1
+,,elliot lake,Hospitals,1
+,,aldergrove,Ambulatory health care services,1
+,,clinton,Ambulatory health care services,5
+,,fredericton,Hospitals,2
+,,preeceville,Nursing and residential care facilities,1
+,,bentley,Nursing and residential care facilities,1
+,,mattawa,Nursing and residential care facilities,2
+,,new denver,Nursing and residential care facilities,1
+,,eastport,Ambulatory health care services,1
+,,borden,Ambulatory health care services,1
+,,penetanguishene,Hospitals,1
+,,normétal,Ambulatory health care services,1
+,,o'leary,Nursing and residential care facilities,2
+,,saint-hyacinthe,Ambulatory health care services,6
+,,north battleford,Ambulatory health care services,2
+,,kangiqsujuaq,Ambulatory health care services,1
+,,calabogie,Ambulatory health care services,1
+,,garden hill,Hospitals,1
+,,lakeshore,Ambulatory health care services,1
+,,saint-hilarion,Ambulatory health care services,1
+,,erickson,Hospitals,1
+,,saint john,Nursing and residential care facilities,7
+,,rigaud,Nursing and residential care facilities,1
+,,dawson city,Hospitals,1
+,,scarborough,Hospitals,2
+,,lloydminster,Hospitals,1
+,,thorold,Nursing and residential care facilities,1
+,,port coquitlam,Ambulatory health care services,1
+,,sainte-marie,Nursing and residential care facilities,1
+,,komoka,Nursing and residential care facilities,1
+,,st laurent,Ambulatory health care services,1
+,,aguanish,Ambulatory health care services,1
+,,cartwright,Hospitals,1
+,,nakusp,Nursing and residential care facilities,1
+,,chisasibi,Hospitals,1
+,,athens,Nursing and residential care facilities,1
+,,east broughton,Nursing and residential care facilities,1
+,,fort saskatchewan,Hospitals,2
+,,wakaw,Nursing and residential care facilities,1
+,,grimsby,Hospitals,1
+,,kingston,Ambulatory health care services,15
+,,london,Hospitals,7
+,,rivière-rouge,Hospitals,1
+,,mont-laurier,Nursing and residential care facilities,3
+,,thessalon,Hospitals,1
+,,saint-isidore,Nursing and residential care facilities,1
+,,upper nine mile river,Nursing and residential care facilities,1
+,,halifax,Ambulatory health care services,1
+,,labrador city,Ambulatory health care services,1
+,,lucknow,Nursing and residential care facilities,3
+,,aldergrove,Nursing and residential care facilities,2
+,,carleton-sur-mer,Ambulatory health care services,2
+,,sainte-agathe-des-monts,Ambulatory health care services,4
+,,mississippi mills,Ambulatory health care services,1
+,,tracadie-sheila,Hospitals,1
+,,coaticook,Ambulatory health care services,1
+,,neepawa,Hospitals,1
+,,saint-casimir,Nursing and residential care facilities,1
+,,walkerton,Nursing and residential care facilities,2
+,,mindemoya,Ambulatory health care services,1
+,,oakville,Hospitals,1
+,,mount pearl,Nursing and residential care facilities,1
+,,calgary,Hospitals,12
+,,estevan,Hospitals,2
+,,saanichton,Nursing and residential care facilities,4
+,,sainte-catherine-de-la-jacques-cartier,Ambulatory health care services,1
+,,georgina,Ambulatory health care services,2
+,,sault ste marie,Nursing and residential care facilities,12
+,,merrickville,Ambulatory health care services,1
+,,saint-bruno-de-montarville,Nursing and residential care facilities,1
+,,orangeville,Ambulatory health care services,3
+,,richmond,Hospitals,1
+,,westlock,Hospitals,1
+,,courtice,Nursing and residential care facilities,2
+,,salmon arm,Hospitals,1
+,,saint-augustin-de-desmaures,Ambulatory health care services,2
+,,magog,Hospitals,1
+,,chetwynd,Ambulatory health care services,1
+,,hunter river,Ambulatory health care services,1
+,,châteauguay,Nursing and residential care facilities,2
+,,peterborough,Ambulatory health care services,13
+,,stonewall,Hospitals,2
+,,sarnia,Nursing and residential care facilities,10
+,,tyne valley,Ambulatory health care services,1
+,,clearwater,Hospitals,1
+,,saint-michel-du-squatec,Hospitals,1
+,,dresden,Nursing and residential care facilities,2
+,,cambridge,Ambulatory health care services,7
+,,cleveland,Hospitals,1
+,,myrnham,Hospitals,1
+,,mansfield-et-pontefract,Hospitals,1
+,,kuujjuaq,Hospitals,1
+,,canmore,Hospitals,1
+,,midhurst,Ambulatory health care services,1
+,,saint-quentin,Hospitals,1
+,,plaster rock,Nursing and residential care facilities,1
+,,pauingassi,Hospitals,1
+,,brampton,Ambulatory health care services,11
+,,olds,Hospitals,1
+,,sorel-tracy,Ambulatory health care services,3
+,,sioux lookout,Ambulatory health care services,2
+,,trois-rivières,Hospitals,5
+,,mont-royal,Nursing and residential care facilities,2
+,,saint-épiphane,Ambulatory health care services,1
+,,laval,Nursing and residential care facilities,28
+,,kitimat,Nursing and residential care facilities,1
+,,gander,Ambulatory health care services,1
+,,squamish,Ambulatory health care services,1
+,,kashechewan,Hospitals,1
+,,liverpool,Hospitals,1
+,,deep river,Ambulatory health care services,1
+,,st albans,Ambulatory health care services,2
+,,essex,Ambulatory health care services,4
+,,mississippi mills,Nursing and residential care facilities,4
+,,west vancouver,Nursing and residential care facilities,6
+,,baie-des-sables,Ambulatory health care services,1
+,,gaspé,Hospitals,3
+,,chilliwack,Hospitals,1
+,,naicam,Ambulatory health care services,1
+,,lynn lake,Hospitals,1
+,,rivière-rouge,Nursing and residential care facilities,1
+,,wadena,Ambulatory health care services,2
+,,elrose,Nursing and residential care facilities,1
+,,saint-pierre-de-l'île-d'orléans,Ambulatory health care services,2
+,,edmonton,Hospitals,17
+,,humboldt,Nursing and residential care facilities,2
+,,kirkland lake,Ambulatory health care services,2
+,,lakeshore,Nursing and residential care facilities,3
+,,redvers,Ambulatory health care services,1
+,,northbrook,Nursing and residential care facilities,1
+,,rigaud,Ambulatory health care services,1
+,,oakbank,Ambulatory health care services,1
+,,kitchener,Nursing and residential care facilities,24
+,,south woodslee,Nursing and residential care facilities,1
+,,norquay,Nursing and residential care facilities,2
+,,montmagny,Hospitals,2
+,,sturgeon falls,Hospitals,1
+,,brookfield,Hospitals,1
+,,sydney mines,Nursing and residential care facilities,1
+,,port alberni,Nursing and residential care facilities,9
+,,collingwood,Hospitals,1
+,,didsbury,Hospitals,1
+,,houston,Nursing and residential care facilities,1
+,,kingston,Hospitals,4
+,,flin flon,Hospitals,1
+,,kelvington,Nursing and residential care facilities,1
+,,cowansville,Hospitals,2
+,,argyle,Nursing and residential care facilities,1
+,,windsor,Ambulatory health care services,18
+,,spalding,Ambulatory health care services,1
+,,enderby,Nursing and residential care facilities,1
+,,hythe,Nursing and residential care facilities,1
+,,madoc,Nursing and residential care facilities,3
+,,rivière-du-loup,Hospitals,1
+,,sherbrooke,Ambulatory health care services,10
+,,terrace bay,Ambulatory health care services,1
+,,campbellton,Nursing and residential care facilities,1
+,,dinsmore,Hospitals,1
+,,the blue mountains,Nursing and residential care facilities,1
+,,burnaby,Hospitals,2
+,,rogersville,Nursing and residential care facilities,1
+,,perth,Ambulatory health care services,1
+,,terrebonne,Ambulatory health care services,8
+,,ailsa craig,Nursing and residential care facilities,1
+,,saint pierre-jolys,Hospitals,1
+,,huntsville,Nursing and residential care facilities,5
+,,langley,Ambulatory health care services,8
+,,melville,Hospitals,1
+,,mobert,Ambulatory health care services,1
+,,georgetown,Hospitals,1
+,,napierville,Ambulatory health care services,2
+,,kahnawake,Hospitals,1
+,,indian head,Hospitals,1
+,,ormstown,Ambulatory health care services,1
+,,temagami,Ambulatory health care services,1
+,,pointe-à-la-croix,Ambulatory health care services,1
+,,revelstoke,Nursing and residential care facilities,3
+,,sioux lookout,Nursing and residential care facilities,1
+,,macklin,Ambulatory health care services,1
+,,waterville,Hospitals,1
+,,amos,Nursing and residential care facilities,2
+,,burnaby,Ambulatory health care services,13
+,,tadoussac,Ambulatory health care services,1
+,,la guadeloupe,Ambulatory health care services,1
+,,high prairie,Hospitals,1
+,,marmora,Nursing and residential care facilities,1
+,,val-d'or,Hospitals,2
+,,parksville,Nursing and residential care facilities,6
+,,longueuil,Nursing and residential care facilities,14
+,,saint jacobs,Ambulatory health care services,1
+,,sainte-anne-des-monts,Nursing and residential care facilities,2
+,,clinton,Nursing and residential care facilities,2
+,,montmartre,Ambulatory health care services,1
+,,casselman,Nursing and residential care facilities,1
+,,red deer,Nursing and residential care facilities,3
+,,port moody,Nursing and residential care facilities,2
+,,thorold,Ambulatory health care services,6
+,,grand bank,Nursing and residential care facilities,1
+,,russell,Nursing and residential care facilities,1
+,,salaberry-de-valleyfield,Hospitals,1
+,,bashaw,Hospitals,1
+,,tignish,Ambulatory health care services,1
+,,dunnville,Hospitals,1
+,,sandy point,Nursing and residential care facilities,1
+,,middle musquodoboit,Hospitals,1
+,,mississauga,Ambulatory health care services,19
+,,toronto,Nursing and residential care facilities,206
+,,terrace,Nursing and residential care facilities,4
+,,sandspit,Ambulatory health care services,1
+,,boucherville,Nursing and residential care facilities,2
+,,donnacona,Ambulatory health care services,2
+,,l'anse-saint-jean,Ambulatory health care services,2
+,,sundre,Hospitals,1
+,,barrie,Ambulatory health care services,15
+,,drumheller,Hospitals,1
+,,sainte-anne-de-bellevue,Hospitals,1
+,,saguenay,Nursing and residential care facilities,13
+,,gatineau,Ambulatory health care services,12
+,,saint-jérôme,Hospitals,2
+,,watson,Ambulatory health care services,1
+,,lombardy,Nursing and residential care facilities,1
+,,chisasibi,Ambulatory health care services,1
+,,port-daniel--gascons,Ambulatory health care services,1
+,,wilmot,Nursing and residential care facilities,1
+,,kitimat,Hospitals,1
+,,saint-andré-avellin,Ambulatory health care services,2
+,,hamiota,Hospitals,1
+,,southampton,Nursing and residential care facilities,2
+,,timmins,Nursing and residential care facilities,8
+,,lac-mégantic,Nursing and residential care facilities,2
+,,labelle,Ambulatory health care services,1
+,,north bay,Ambulatory health care services,10
+,,north vancouver,Nursing and residential care facilities,44
+,,newmarket,Hospitals,1
+,,osnaburgh,Ambulatory health care services,1
+,,saint-ambroise,Ambulatory health care services,1
+,,lestock,Hospitals,1
+,,nicolet,Nursing and residential care facilities,1
+,,bonaventure,Ambulatory health care services,1
+,,cobourg,Ambulatory health care services,2
+,,cupar,Ambulatory health care services,1
+,,perth,Hospitals,1
+,,blainville,Hospitals,1
+,,macamic,Nursing and residential care facilities,1
+,,owen sound,Ambulatory health care services,12
+,,medicine hat,Hospitals,2
+,,smithers,Nursing and residential care facilities,3
+,,saint-ludger,Ambulatory health care services,1
+,,glenboro,Hospitals,1
+,,sainte-marie,Ambulatory health care services,2
+,,belleville,Ambulatory health care services,11
+,,port dover,Nursing and residential care facilities,1
+,,sheet harbour,Hospitals,1
+,,cantley,Ambulatory health care services,1
+,,vermilion bay,Ambulatory health care services,2
+,,pleasnantville,Nursing and residential care facilities,1
+,,wolseley,Ambulatory health care services,1
+,,port hood,Nursing and residential care facilities,1
+,,tillsonburg,Ambulatory health care services,1
+,,brussels,Nursing and residential care facilities,1
+,,surrey,Ambulatory health care services,24
+,,lambton shores,Nursing and residential care facilities,2
+,,montréal,Ambulatory health care services,55
+,,creemore,Nursing and residential care facilities,1
+,,hagersville,Hospitals,1
+,,saint-tite,Nursing and residential care facilities,1
+,,shamattawa,Hospitals,1
+,,sainte-claire,Ambulatory health care services,2
+,,little current,Hospitals,1
+,,salluit,Ambulatory health care services,1
+,,dégelis,Ambulatory health care services,1
+,,mont-joli,Hospitals,1
+,,watson lake,Ambulatory health care services,2
+,,teulon,Ambulatory health care services,1
+,,roberval,Nursing and residential care facilities,2
+,,franquelin,Ambulatory health care services,1
+,,claresholm,Hospitals,2
+,,thetford mines,Hospitals,1
+,,estevan,Nursing and residential care facilities,1
+,,carrot river,Hospitals,1
+,,carbonear,Hospitals,1
+,,saint-donat,Nursing and residential care facilities,1
+,,strathmore,Hospitals,1
+,,baie-trinité,Ambulatory health care services,1
+,,invermere,Hospitals,1
+,,nicolet,Hospitals,2
+,,sackville,Nursing and residential care facilities,2
+,,vancouver,Nursing and residential care facilities,110
+,,sainte-agathe-des-monts,Hospitals,1
+,,waterford,Nursing and residential care facilities,1
+,,tyne valley,Nursing and residential care facilities,1
+,,truro,Ambulatory health care services,1
+,,saint-eustache,Nursing and residential care facilities,2
+,,goderich,Ambulatory health care services,3
+,,dutton,Nursing and residential care facilities,1
+,,saint-rémi,Ambulatory health care services,1
+,,st.-louis-de-kent,Nursing and residential care facilities,1
+,,boissevain,Hospitals,1
+,,swan hills,Hospitals,1
+,,saint-georges,Ambulatory health care services,2
+,,dartmouth,Nursing and residential care facilities,6
+,,crystal city,Hospitals,1
+,,chertsey,Ambulatory health care services,1
+,,shawinigan,Ambulatory health care services,5
+,,smeaton,Ambulatory health care services,1
+,,st breiux,Nursing and residential care facilities,1
+,,cabri,Ambulatory health care services,1
+,,thunder bay,Ambulatory health care services,26
+,,port aux basques,Hospitals,1
+,,geraldton,Hospitals,1
+,,collingwood,Ambulatory health care services,3
+,,île-à-la-crosse,Hospitals,1
+,,pinawa,Hospitals,1
+,,vanderhoof,Hospitals,1
+,,grand falls,Nursing and residential care facilities,1
+,,central butte,Hospitals,1
+,,dawson creek,Nursing and residential care facilities,8
+,,south indian lake,Hospitals,1
+,,fonthill,Ambulatory health care services,1
+,,lac-mégantic,Ambulatory health care services,2
+,,delisle,Ambulatory health care services,1
+,,carnduff,Nursing and residential care facilities,3
+,,saint thomas,Ambulatory health care services,8
+,,saint-liguori,Nursing and residential care facilities,1
+,,mchigeeng,Ambulatory health care services,1
+,,calgary,Ambulatory health care services,17
+,,victoria,Nursing and residential care facilities,96
+,,wilkie,Hospitals,1
+,,charlemagne,Hospitals,1
+,,fredericton junction,Nursing and residential care facilities,1
+,,oujé-bougoumou,Ambulatory health care services,2
+,,little current,Nursing and residential care facilities,1
+,,farnham,Ambulatory health care services,2
+,,arcola,Hospitals,1
+,,drummondville,Hospitals,4
+,,dupuy,Ambulatory health care services,1
+,,ohsweken,Nursing and residential care facilities,1
+,,kamloops,Nursing and residential care facilities,30
+,,maple ridge,Nursing and residential care facilities,21
+,,wikwemikong,Ambulatory health care services,1
+,,lucan,Nursing and residential care facilities,2
+,,brockville,Nursing and residential care facilities,7
+,,dolbeau-mistassini,Nursing and residential care facilities,2
+,,riverview,Nursing and residential care facilities,9
+,,sheet harbour,Nursing and residential care facilities,1
+,,indian head,Nursing and residential care facilities,1
+,,asbestos,Hospitals,1
+,,fortierville,Nursing and residential care facilities,1
+,,plat,Ambulatory health care services,1
+,,killam,Hospitals,1
+,,victoria,Hospitals,5
+,,fort quappelle,Ambulatory health care services,3
+,,plessisville,Ambulatory health care services,3
+,,meteghan,Nursing and residential care facilities,3
+,,sun peaks,Ambulatory health care services,1
+,,big river,Ambulatory health care services,2
+,,vancouver,Ambulatory health care services,38
+,,smiths falls,Hospitals,1
+,,mission,Hospitals,1
+,,truro,Nursing and residential care facilities,3
+,,port hope,Nursing and residential care facilities,6
+,,cargill,Nursing and residential care facilities,1
+,,nanaimo,Nursing and residential care facilities,30
+,,dundas,Nursing and residential care facilities,1
+,,bonnyville,Nursing and residential care facilities,1
+,,orillia,Nursing and residential care facilities,12
+,,cranbrook,Nursing and residential care facilities,8
+,,hawkesbury,Nursing and residential care facilities,4
+,,vankleek hill,Ambulatory health care services,1
+,,inuvik,Hospitals,1
+,,forestville,Hospitals,1
+,,waswanipi,Ambulatory health care services,2
+,,whitby,Nursing and residential care facilities,9
+,,notre-dame-des-anges,Nursing and residential care facilities,1
+,,seeleys bay,Nursing and residential care facilities,1
+,,richmond,Nursing and residential care facilities,37
+,,sainte-adèle,Nursing and residential care facilities,2
+,,westmount,Nursing and residential care facilities,4
+,,côte-saint-luc,Hospitals,1
+,,london,Ambulatory health care services,25
+,,fergus,Hospitals,1
+,,fort quappelle,Nursing and residential care facilities,1
+,,hafford,Ambulatory health care services,1
+,,bancroft,Hospitals,1
+,,sept-îles,Ambulatory health care services,4
+,,thetford mines,Ambulatory health care services,3
+,,grimsby,Ambulatory health care services,2
+,,rencontre east,Ambulatory health care services,1
+,,mascouche,Ambulatory health care services,1
+,,témiscouata-sur-le-lac,Ambulatory health care services,2
+,,clinton,Hospitals,1
+,,east gwillimbury,Nursing and residential care facilities,1
+,,gananoque,Nursing and residential care facilities,2
+,,trenton,Nursing and residential care facilities,1
+,,weyburn,Nursing and residential care facilities,2
+,,welshpool,Nursing and residential care facilities,1
+,,edmundston,Nursing and residential care facilities,1
+,,townsend,Nursing and residential care facilities,1
+,,benito,Ambulatory health care services,1
+,,wolseley,Nursing and residential care facilities,2
+,,williams lake,Hospitals,1
+,,les îles-de-la-madeleine,Nursing and residential care facilities,2
+,,niagara-on-the-lake,Ambulatory health care services,2
+,,lévis,Hospitals,6
+,,melville,Ambulatory health care services,1
+,,edam,Ambulatory health care services,1
+,,ancaster,Nursing and residential care facilities,1
+,,akwesasne,Nursing and residential care facilities,2
+,,perth road,Nursing and residential care facilities,1
+,,paspébiac,Hospitals,1
+,,fermont,Hospitals,3
+,,hardisty,Hospitals,1
+,,fort st john,Hospitals,1
+,,chester,Nursing and residential care facilities,1
+,,esterhazy,Hospitals,2
+,,bowen island,Nursing and residential care facilities,1
+,,meadow lake,Hospitals,1
+,,dolbeau-mistassini,Hospitals,1
+,,coronach,Ambulatory health care services,1
+,,elmvale,Nursing and residential care facilities,1
+,,shawville,Ambulatory health care services,1
+,,hodgson,Hospitals,1
+,,garden village,Ambulatory health care services,1
+,,rawdon,Hospitals,1
+,,viking,Hospitals,1
+,,mistissini,Nursing and residential care facilities,2
+,,winchester,Hospitals,1
+,,wingham,Nursing and residential care facilities,2
+,,fall river,Ambulatory health care services,1
+,,grand forks,Nursing and residential care facilities,4
+,,souris,Nursing and residential care facilities,3
+,,mont-laurier,Hospitals,2
+,,nédélec,Ambulatory health care services,1
+,,boisbriand,Hospitals,1
+,,goodsoil,Ambulatory health care services,1
+,,vaughan,Ambulatory health care services,4
+,,chambly,Ambulatory health care services,1
+,,l'isle-aux-coudres,Ambulatory health care services,1
+,,collingwood,Nursing and residential care facilities,8
+,,kerrobert,Hospitals,2
+,,rouyn-noranda,Hospitals,3
+,,québec city,Hospitals,5
+,,brighton,Nursing and residential care facilities,2
+,,foam lake,Nursing and residential care facilities,1
+,,hay river,Hospitals,2
+,,moosomin,Nursing and residential care facilities,1
+,,longueuil,Ambulatory health care services,13
+,,salaberry-de-valleyfield,Ambulatory health care services,4
+,,fillmore,Nursing and residential care facilities,1
+,,shanty bay,Ambulatory health care services,1
+,,cumberland house,Ambulatory health care services,1
+,,cudworth,Nursing and residential care facilities,1
+,,wetaskiwin,Hospitals,1
+,,coldstream,Nursing and residential care facilities,3
+,,saint-jérôme,Ambulatory health care services,9
+,,bonnyville,Hospitals,2
+,,saint-rémi,Nursing and residential care facilities,1
+,,berwick,Nursing and residential care facilities,2
+,,moose factory,Ambulatory health care services,1
+,,moncton,Hospitals,2
+,,sainte-thérèse,Hospitals,1
+,,watrous,Ambulatory health care services,1
+,,edmundston,Hospitals,1
+,,orillia,Hospitals,1
+,,lavaltrie,Ambulatory health care services,1
+,,duparquet,Ambulatory health care services,1
+,,wellington,Ambulatory health care services,1
+,,saint-alexandre-de-kamouraska,Nursing and residential care facilities,1
+,,laval,Hospitals,9
+,,burlington,Nursing and residential care facilities,21
+,,botwood,Nursing and residential care facilities,1
+,,guelph,Ambulatory health care services,11
+,,new waterford,Hospitals,1
+,,lunenburg,Hospitals,1
+,,bromont,Ambulatory health care services,1
+,,saint-thomas,Nursing and residential care facilities,1
+,,neils harbour,Hospitals,1
+,,jasper,Hospitals,1
+,,rainy river,Nursing and residential care facilities,1
+,,chelsea,Ambulatory health care services,1
+,,dalmeny,Nursing and residential care facilities,1
+,,brunner,Nursing and residential care facilities,1
+,,whitbourne,Ambulatory health care services,1
+,,maria,Ambulatory health care services,1
+,,iroquois falls,Ambulatory health care services,1
+,,sainte-élisabeth,Nursing and residential care facilities,1
+,,dryden,Hospitals,1
+,,blanc-sablon,Ambulatory health care services,1
+,,port saunders,Hospitals,1
+,,gravelbourg,Hospitals,2
+,,prescott,Nursing and residential care facilities,2
+,,sechelt,Hospitals,1
+,,coquitlam,Ambulatory health care services,6
+,,bécancour,Ambulatory health care services,3
+,,walkerton,Ambulatory health care services,1
+,,puslinch,Nursing and residential care facilities,1
+,,mount carmel,Ambulatory health care services,1
+,,mount herbert,Nursing and residential care facilities,1
+,,listowel,Nursing and residential care facilities,3
+,,west st paul,Nursing and residential care facilities,1
+,,saint-jean-sur-richelieu,Nursing and residential care facilities,6
+,,winnipegosis,Hospitals,1
+,,vita,Hospitals,1
+,,redvers,Hospitals,1
+,,salmon arm,Ambulatory health care services,3
+,,beaconsfield,Ambulatory health care services,1
+,,morrisburg,Ambulatory health care services,1
+,,porcupine plain,Nursing and residential care facilities,1
+,,debert,Nursing and residential care facilities,1
+,,victoria,Ambulatory health care services,21
+,,otter lake,Ambulatory health care services,1
+,,sainte-thérèse,Ambulatory health care services,2
+,,minden,Ambulatory health care services,1
+,,perth,Nursing and residential care facilities,4
+,,les îles-de-la-madeleine,Ambulatory health care services,4
+,,york landing,Hospitals,1
+,,sainte-martine,Ambulatory health care services,1
+,,maniwaki,Nursing and residential care facilities,1
+,,arnprior,Ambulatory health care services,2
+,,dawson creek,Hospitals,1
+,,grenfell,Ambulatory health care services,1
+,,kelowna,Nursing and residential care facilities,30
+,,hodgeville,Ambulatory health care services,1
+,,saint-prosper,Ambulatory health care services,2
+,,grande prairie,Nursing and residential care facilities,2
+,,regina,Nursing and residential care facilities,9
+,,acton,Nursing and residential care facilities,2
+,,amherstburg,Nursing and residential care facilities,3
+,,gibsons,Ambulatory health care services,1
+,,blind river,Nursing and residential care facilities,1
+,,whitehorse,Hospitals,1
+,,niagara falls,Hospitals,1
+,,cobden,Nursing and residential care facilities,1
+,,saint-cyprien,Nursing and residential care facilities,1
+,,lac-au-saumon,Nursing and residential care facilities,1
+,,merrickville,Nursing and residential care facilities,1
+,,selkirk,Ambulatory health care services,6
+,,st catharines,Nursing and residential care facilities,18
+,,bridgewater,Nursing and residential care facilities,2
+,,killarney,Hospitals,1
+,,woodstock,Nursing and residential care facilities,9
+,,saint-lambert,Nursing and residential care facilities,3
+,,sudbury,Ambulatory health care services,22
+,,lac-mégantic,Hospitals,2
+,,st paul,Hospitals,1
+,,lloydminster,Nursing and residential care facilities,5
+,,maxville,Nursing and residential care facilities,1
+,,port hope,Ambulatory health care services,2
+,,caledon,Ambulatory health care services,1
+,,campbell river,Nursing and residential care facilities,14
+,,saint jacobs,Nursing and residential care facilities,2
+,,annapolis royal,Nursing and residential care facilities,1
+,,battleford,Nursing and residential care facilities,1
+,,milton,Ambulatory health care services,4
+,,barraute,Ambulatory health care services,1
+,,belleoram,Ambulatory health care services,1
+,,squamish,Nursing and residential care facilities,4
+,,chatham-kent,Nursing and residential care facilities,17
+,,placentia,Ambulatory health care services,1
+,,high level,Hospitals,1
+,,black lake,Hospitals,1
+,,chemainus,Hospitals,1
+,,jogues,Nursing and residential care facilities,1
+,,bridgewater,Hospitals,1
+,,mont-tremblant,Ambulatory health care services,1
+,,saint-louis-du-ha! ha!,Nursing and residential care facilities,1
+,,mannville,Hospitals,1
+,,mackenzie,Hospitals,1
+,,cap-chat,Nursing and residential care facilities,1
+,,pictou,Hospitals,1
+,,gillam,Hospitals,1
+,,grande prairie,Ambulatory health care services,1
+,,chilliwack,Nursing and residential care facilities,13
+,,whitchurch-stouffville,Nursing and residential care facilities,5
+,,saanichton,Ambulatory health care services,1
+,,bridgetown,Nursing and residential care facilities,1
+,,esterhazy,Nursing and residential care facilities,1
+,,fort st john,Ambulatory health care services,1
+,,charlottetown,Ambulatory health care services,11
+,,lewisporte,Nursing and residential care facilities,1
+,,gatineau,Hospitals,14
+,,saint-lazare-de-bellechasse,Ambulatory health care services,1
+,,saint-urbain,Ambulatory health care services,1
+,,quill lake,Ambulatory health care services,1
+,,,Hospitals,2
+,,wasaga beach,Ambulatory health care services,1
+,,,Nursing and residential care facilities,5
+,,rivière-bleue,Nursing and residential care facilities,1
+,,fort erie,Hospitals,1
+,,lachute,Ambulatory health care services,1
+,,beaverlodge,Hospitals,1
+,,stephenville,Hospitals,1
+,,dryden,Ambulatory health care services,4
+,,penetanguishene,Nursing and residential care facilities,8
+,,brochet,Hospitals,1
+,,richelieu,Ambulatory health care services,2
+,,oakville,Ambulatory health care services,10
+,,cookshire-eaton,Ambulatory health care services,1
+,,n reston,Hospitals,1
+,,saint-jérôme,Nursing and residential care facilities,12
+,,saint-charles-borromée,Nursing and residential care facilities,1
+,,red lake,Ambulatory health care services,2
+,,sidney,Ambulatory health care services,1
+,,vanderhoof,Nursing and residential care facilities,1
+,,senneterre,Hospitals,1
+,,new westminster,Ambulatory health care services,3
+,,wallaceburg,Ambulatory health care services,1
+,,thamesville,Ambulatory health care services,1
+,,watford,Nursing and residential care facilities,2
+,,ville-marie,Ambulatory health care services,2
+,,kentville,Nursing and residential care facilities,3
+,,balcarres,Hospitals,1
+,,princeton,Nursing and residential care facilities,2
+,,tillsonburg,Nursing and residential care facilities,5
+,,fort mcmurray,Hospitals,2
+,,beauharnois,Nursing and residential care facilities,1
+,,englehart,Hospitals,1
+,,saint-raphaël,Nursing and residential care facilities,1
+,,enfield,Nursing and residential care facilities,2
+,,sydenham,Ambulatory health care services,1
+,,teulon,Hospitals,1
+,,almonte,Hospitals,1
+,,beauceville,Ambulatory health care services,1
+,,curve lake,Ambulatory health care services,1
+,,dawson creek,Ambulatory health care services,2
+,,crapaud,Nursing and residential care facilities,1
+,,saint-césaire,Ambulatory health care services,1
+,,weston,Hospitals,1
+,,grandview,Hospitals,1
+,,boiestown,Nursing and residential care facilities,1
+,,kirkland lake,Hospitals,1
+,,creston,Nursing and residential care facilities,5
+,,sainte-anne-des-plaines,Ambulatory health care services,1
+,,pincher creek,Hospitals,1
+,,steinbach,Hospitals,1
+,,trois-pistoles,Hospitals,1
+,,la sarre,Ambulatory health care services,2
+,,kentville,Hospitals,1
+,,la pocatière,Hospitals,1
+,,témiscaming,Hospitals,1
+,,west drayton,Ambulatory health care services,1
+,,wawa,Ambulatory health care services,3
+,,gouvernement régional d'eeyou istchee baie-james,Ambulatory health care services,2
+,,mount forest,Nursing and residential care facilities,2
+,,birtle,Hospitals,1
+,,alberton,Ambulatory health care services,2
+,,joliette,Nursing and residential care facilities,3
+,,ville-marie,Hospitals,1
+,,two hills,Hospitals,1
+,,varennes,Ambulatory health care services,2
+,,nipawin,Nursing and residential care facilities,1
+,,hunter river,Nursing and residential care facilities,1
+,,nelson,Ambulatory health care services,2
+,,hornepayne,Hospitals,1
+,,bowmanville,Hospitals,1
+,,petrolia,Hospitals,1
+,,airdrie,Nursing and residential care facilities,1
+,,mont-tremblant,Nursing and residential care facilities,1
+,,muncey,Ambulatory health care services,5
+,,cranbrook,Hospitals,1
+,,tillsonburg,Hospitals,1
+,,clarence creek,Nursing and residential care facilities,1
+,,mansfield-et-pontefract,Nursing and residential care facilities,1
+,,lachute,Nursing and residential care facilities,1
+,,cap-saint-ignace,Hospitals,1
+,,roberval,Ambulatory health care services,4
+,,musgrave harbour,Ambulatory health care services,1
+,,moose jaw,Ambulatory health care services,2
+,,saltcoats,Nursing and residential care facilities,1
+,,la tuque,Ambulatory health care services,1
+,,st walburg,Nursing and residential care facilities,1
+,,wasaga beach,Nursing and residential care facilities,2
+,,chilliwack,Ambulatory health care services,4
+,,edward,Ambulatory health care services,3
+,,churchill,Hospitals,1
+,,lancaster,Nursing and residential care facilities,2
+,,chandler,Ambulatory health care services,2
+,,macgregor,Hospitals,1
+,,trail,Nursing and residential care facilities,4
+,,nanaimo,Hospitals,1
+,,lac-etchemin,Hospitals,1
+,,arnprior,Nursing and residential care facilities,3
+,,lanigan,Hospitals,1
+,,fort st james,Hospitals,1
+,,princeton,Hospitals,1
+,,latulipe-et-gaboury,Ambulatory health care services,1
+,,east angus,Ambulatory health care services,4
+,,piedmont,Ambulatory health care services,1
+,,langley,Nursing and residential care facilities,25
+,,broadview,Hospitals,1
+,,agassiz,Nursing and residential care facilities,3
+,,les hauteurs,Ambulatory health care services,1
+,,matheson,Nursing and residential care facilities,1
+,,new hamburg,Nursing and residential care facilities,1
+,,saint-alexis-des-monts,Ambulatory health care services,1
+,,eriksdale,Ambulatory health care services,1
+,,chibougamau,Hospitals,2
+,,malartic,Hospitals,2
+,,halifax,Nursing and residential care facilities,11
+,,grand manan,Nursing and residential care facilities,1
+,,mistissini,Ambulatory health care services,2
+,,codrington,Nursing and residential care facilities,1
+,,pointe-claire,Nursing and residential care facilities,3
+,,niagara on the lake,Ambulatory health care services,1
+,,kamloops,Hospitals,1
+,,raymore,Ambulatory health care services,1
+,,brant,Ambulatory health care services,2
+,,drayton valley,Hospitals,1
+,,saint-malachie,Nursing and residential care facilities,1
+,,baie-comeau,Ambulatory health care services,1
+,,sylvan lake,Hospitals,1
+,,antigonish,Hospitals,1
+,,leroy,Ambulatory health care services,1
+,,shubenacadie,Nursing and residential care facilities,1
+,,sydney,Nursing and residential care facilities,7
+,,québec,Hospitals,18
+,,saint-esprit,Ambulatory health care services,1
+,,moncton,Nursing and residential care facilities,48
+,,markdale,Nursing and residential care facilities,1
+,,st-albert,Nursing and residential care facilities,1
+,,dorval,Nursing and residential care facilities,3
+,,leamington,Ambulatory health care services,3
+,,pugwash,Hospitals,1
+,,aurora,Nursing and residential care facilities,6
+,,whitby,Ambulatory health care services,7
+,,thunder bay,Hospitals,2
+,,deloraine,Hospitals,1
+,,montmagny,Ambulatory health care services,2
+,,eston,Nursing and residential care facilities,1
+,,sainte-anne-des-monts,Ambulatory health care services,1
+,,wolfville,Ambulatory health care services,1
+,,l'ascension-de-notre-seigneur,Ambulatory health care services,1
+,,sandy bay,Ambulatory health care services,1
+,,west kelowna,Nursing and residential care facilities,3
+,,new germany,Nursing and residential care facilities,1
+,,brossard,Hospitals,1
+,,princeville,Nursing and residential care facilities,1
+,,elora,Nursing and residential care facilities,2
+,,north battleford,Nursing and residential care facilities,3
+,,hafford,Nursing and residential care facilities,1
+,,orillia,Ambulatory health care services,9
+,,innisfil,Nursing and residential care facilities,1
+,,snow lake,Hospitals,1
+,,estevan,Ambulatory health care services,2
+,,100 mile house,Nursing and residential care facilities,1
+,,three hills,Hospitals,1
+,,chetwynd,Nursing and residential care facilities,1
+,,delhi,Nursing and residential care facilities,2
+,,saint-jean-port-joli,Ambulatory health care services,1
+,,clarenville,Hospitals,1
+,,red lake,Hospitals,1
+,,tofino,Hospitals,1
+,,rivers,Hospitals,1
+,,pickering,Ambulatory health care services,1
+,,cobourg,Nursing and residential care facilities,8
+,,curran,Nursing and residential care facilities,1
+,,kirkland lake,Nursing and residential care facilities,2
+,,acton vale,Ambulatory health care services,1
+,,saint-léonard-d'aston,Ambulatory health care services,2
+,,sherwood park,Nursing and residential care facilities,2
+,,gracefield,Nursing and residential care facilities,1
+,,ashcroft,Hospitals,1
+,,sorel-tracy,Hospitals,2
+,,fort frances,Nursing and residential care facilities,2
+,,halifax,Hospitals,5
+,,sutton,Ambulatory health care services,1
+,,rose valley,Ambulatory health care services,1
+,,millbrook,Nursing and residential care facilities,1
+,,waubaushene,Nursing and residential care facilities,1
+,,lakeside,Nursing and residential care facilities,1
+,,natashquan,Ambulatory health care services,1
+,,la pêche,Hospitals,1
+,,stettler,Hospitals,1
+,,rouyn-noranda,Ambulatory health care services,8
+,,halton hills,Nursing and residential care facilities,4
+,,newbury,Hospitals,1
+,,baie-saint-paul,Hospitals,2
+,,hanna,Hospitals,1
+,,fort frances,Ambulatory health care services,3
+,,robertville,Nursing and residential care facilities,1
+,,bracebridge,Hospitals,1
+,,bouctouche,Nursing and residential care facilities,1
+,,barrys bay,Nursing and residential care facilities,2
+,,strathroy,Hospitals,1
+,,st catharines,Hospitals,3
+,,elliot lake,Nursing and residential care facilities,1
+,,armagh,Ambulatory health care services,1
+,,midale,Ambulatory health care services,1
+,,québec,Nursing and residential care facilities,39
+,,saint-sylvestre,Nursing and residential care facilities,1
+,,sussex,Hospitals,1
+,,lac du bonnet,Ambulatory health care services,1
+,,guysborough,Nursing and residential care facilities,1
+,,baie verte,Hospitals,1
+,,prince albert,Nursing and residential care facilities,3
+,,hammonds plains,Nursing and residential care facilities,1
+,,mcadam,Nursing and residential care facilities,1
+,,essex,Nursing and residential care facilities,2
+,,fort vermilion,Hospitals,1
+,,shawinigan,Hospitals,4
+,,trois-rivières,Nursing and residential care facilities,10
+,,north rustico,Nursing and residential care facilities,1
+,,pictou,Nursing and residential care facilities,2
+,,west kelowna,Ambulatory health care services,4
+,,val-d'or,Nursing and residential care facilities,3
+,,new westminster,Hospitals,2
+,,blaine lake,Ambulatory health care services,1
+,,mclennan,Nursing and residential care facilities,1
+,,golden,Hospitals,1
+,,saint-michel-des-saints,Ambulatory health care services,1
+,,yellowknife,Hospitals,1
+,,spirit river,Hospitals,1
+,,whitecap,Ambulatory health care services,1
+,,port colborne,Hospitals,1
+,,masset,Hospitals,2
+,,saint marys,Ambulatory health care services,3
+,,petrolia,Nursing and residential care facilities,3
+,,gull lake,Nursing and residential care facilities,1
+,,cheticamp,Nursing and residential care facilities,1
+,,l'île-perrot,Nursing and residential care facilities,1
+,,chute-aux-outardes,Ambulatory health care services,1
+,,eastmain,Ambulatory health care services,2
+,,imperial,Nursing and residential care facilities,1
+,,mission,Ambulatory health care services,2
+,,preeceville,Ambulatory health care services,1
+,,amherstview,Nursing and residential care facilities,3
+,,espanola,Hospitals,1
+,,fort macleod,Nursing and residential care facilities,1
+,,saint-alexandre,Ambulatory health care services,1
+,,chesley,Nursing and residential care facilities,3
+,,winkler,Ambulatory health care services,1
+,,etobicoke,Hospitals,2
+,,palmerston,Hospitals,1
+,,kimberley,Nursing and residential care facilities,1
+,,chesley,Hospitals,1
+,,st johns,Nursing and residential care facilities,6
+,,saint-sauveur,Nursing and residential care facilities,2
+,,haliburton,Hospitals,1
+,,saint-sauveur,Ambulatory health care services,1
+,,kangiqsualujjuaq,Ambulatory health care services,1
+,,williams lake,Ambulatory health care services,1
+,,maple creek,Hospitals,1
+,,change islands,Ambulatory health care services,1
+,,king city,Nursing and residential care facilities,1
+,,shelburne,Hospitals,1
+,,oshawa,Ambulatory health care services,6
+,,kincardine,Nursing and residential care facilities,2
+,,stonewall,Ambulatory health care services,1
+,,chapleau,Nursing and residential care facilities,2
+,,middleton,Hospitals,1
+,,forestville,Nursing and residential care facilities,1
+,,haines junction,Ambulatory health care services,1
+,,saskatoon,Ambulatory health care services,13
+,,baie-comeau,Nursing and residential care facilities,3
+,,delson,Ambulatory health care services,1
+,,winnipeg,Nursing and residential care facilities,37
+,,regina,Ambulatory health care services,39
+,,broadview,Ambulatory health care services,1
+,,beloeil,Ambulatory health care services,3
+,,musquodoboit harbour,Nursing and residential care facilities,1
+,,barrie,Nursing and residential care facilities,20
+,,barrie,Hospitals,1
+,,burnaby,Nursing and residential care facilities,46
+,,laforce,Ambulatory health care services,1
+,,whitewood,Ambulatory health care services,1
+,,akulivik,Ambulatory health care services,1
+,,mascouche,Nursing and residential care facilities,1
+,,raymond,Hospitals,1
+,,repentigny,Nursing and residential care facilities,3
+,,biggar,Hospitals,2
+,,huntsville,Hospitals,1
+,,ear falls,Ambulatory health care services,1
+,,vernon,Ambulatory health care services,2
+,,huntingdon,Nursing and residential care facilities,1
+,,campbellton,Hospitals,2
+,,medicine hat,Nursing and residential care facilities,6
+,,bracebridge,Nursing and residential care facilities,4
+,,baddeck,Hospitals,1
+,,woodbridge,Hospitals,1
+,,robert's arm,Ambulatory health care services,1
+,,gaspé,Ambulatory health care services,4
+,,charlottetown,Hospitals,3
+,,happy valley-goose bay,Hospitals,1
+,,consort,Hospitals,1
+,,blind river,Ambulatory health care services,2
+,,godfrey,Nursing and residential care facilities,1
+,,muskrat dam,Nursing and residential care facilities,1
+,,elmira,Nursing and residential care facilities,3
+,,burks falls,Ambulatory health care services,1
+,,new waterford,Nursing and residential care facilities,1
+,,moosonee,Ambulatory health care services,1
+,,ladysmith,Hospitals,1
+,,terrace,Hospitals,1
+,,salluit,Nursing and residential care facilities,1
+,,kaslo,Ambulatory health care services,1
+,,chandler,Nursing and residential care facilities,2
+,,ladysmith,Nursing and residential care facilities,2
+,,green valley,Nursing and residential care facilities,1
+,,lanark,Ambulatory health care services,1
+,,lac-des-aigles,Ambulatory health care services,1
+,,hartland,Nursing and residential care facilities,1
+,,candle lake,Ambulatory health care services,1
+,,bécancour,Nursing and residential care facilities,1
+,,barriere,Nursing and residential care facilities,1
+,,treherne,Hospitals,1
+,,saint-gabriel-de-brandon,Ambulatory health care services,1
+,,dalhousie,Nursing and residential care facilities,1

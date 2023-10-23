@@ -4,3 +4,7 @@ dialect = postgres
 
 [sqlfluff:layout:type:comma]
 line_position = leading
+
+[sqlfluff:templater:dbt]
+
+profiles_dir = ~/.dbt/

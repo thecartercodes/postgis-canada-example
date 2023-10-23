@@ -3,8 +3,8 @@ healthcare_metrics:
     dev:
       type: postgres
       threads: 1
-      host: localhost
-      port: 1255
+      host: postgres
+      port: 5432
       user: tm41m
       pass: tm41m
       dbname: tm41m

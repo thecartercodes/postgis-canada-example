@@ -1,4 +1,5 @@
 build:
+	docker build -t thecartercodes/postgis-dbt:0.1 . && \
 	docker compose -f docker-compose.yml up -d
 
 db-shell:
